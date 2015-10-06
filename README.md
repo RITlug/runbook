@@ -3,10 +3,11 @@ Detailed information on how RITlug runs and how to run RITlug.
 
 Table of Contents
 ----------
-* [Announcements](announcements.md)
+* [Announcements](announcements.md) - process of posting announcements
 * [License](LICENSE)
+* [Meetings](meetings.md) - format, topics, planning
 * [README - What, Why, Who, and License](README.md)
-* [RITlug Website](the-website.md)
+* [RITlug Website](the-website.md) - posting announcements, where to find things
 
 Wut? Why?
 ----------
