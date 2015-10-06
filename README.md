@@ -3,7 +3,8 @@ Detailed information on how RITlug runs and how to run RITlug.
 
 Table of Contents
 ----------
-* README - What, Why, Who, and License
+* [License](LICENSE)
+* [README - What, Why, Who, and License](README.md)
 
 Wut? Why?
 ----------
