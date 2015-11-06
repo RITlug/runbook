@@ -4,6 +4,8 @@ Detailed information on how RITlug runs and how to run RITlug.
 Table of Contents
 ----------
 * [Announcements](announcements.md) - process of posting announcements
+* [Eboard Onboarding and Offboarding](eboard-onboarding-offboarding.md) -
+Checklist for eboard transitions
 * [IRC Management](irc-channel.md) - channel overview, management, and handling
 problems
 * [License](LICENSE)
