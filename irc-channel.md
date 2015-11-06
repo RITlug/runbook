@@ -17,12 +17,12 @@ a few things to get you started:
  * Protocol: IRC
  * Password: None
 2. Set your nick (May not be necessary if you set a username in your client)
- * /nick <your new name>
+ * `/nick <your new name>`
 3. Register your Nick (required if you will have Op privileges, highly
 recommended otherwise)
- * /msg NickServ register <Your Email> <Your Password>
+ * `/msg NickServ register <Your Email> <Your Password>`
  * NickServ will email you a confirmation code
-4. Join the RITlug channel: /join #ritlug
+4. Join the RITlug channel: `/join #ritlug`
 
 Other commands are detailed in the sections below.
 
