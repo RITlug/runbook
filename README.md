@@ -4,6 +4,8 @@ Detailed information on how RITlug runs and how to run RITlug.
 Table of Contents
 ----------
 * [Announcements](announcements.md) - process of posting announcements
+* [IRC Management](irc-channel.md) - channel overview, management, and handling
+problems
 * [License](LICENSE)
 * [Meetings](meetings.md) - format, topics, planning
 * [README - What, Why, Who, and License](README.md)
