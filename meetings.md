@@ -1,5 +1,22 @@
 # Meetings
 
+This page covers when meetings happen, the typical RITlug meeting format and topics, how
+to plan and announce a meeting, and what to do following the meeting.
+
+Note that this is a typical meeting. RITlug holds the occasional "special" meeting which do
+not always follow this format (think elections and similar).
+
+Meeting Checklist (steps are detailed later in the document)
+----------------
+1. Make sure an eboard member will be available and present in the room prior to the meeting (15 minutes
+is usually fine).
+2. Plan a topic for the meeting (including creating presentations if necessary)
+3. Announce the meeting topic
+4. Hold the meeting! Prior to a talk, give any club announcements and introduce the presenter.
+5. Post the talk to the RITlug website, if permitted
+6. Ensure an Eboard member is present until the end of the meeting (or end the meeting early, if
+absolutely necessary)
+
 When
 ----------------
 Meetings are held Friday evenings 4-6PM. Although late, the room the club meets in is consistently available
@@ -29,16 +46,35 @@ This can be ideal for some due to classes or other scheduling. Members are free 
 feel the need. This also seems to promote learning and the club to form a community, rather than just being
 a group of people who meet on a weekly basis.
 
-Planning
+Planning and Announcing
 ---------------
 Meetings should be planned in advance of the meeting with at least one presentation. Once the formal topic
 of the meeting is decided, an announcement should be sent out to the club. See [Announcements](announcements.md).
+As part of the announcement process is handled via Github, presenters should be encouraged to submit
+their announcement as a pull request against the website. Once merged, the eboard should also copy the
+announcement and send it out via TheLink. Instructions for sending an announcement are available
+[in the Runbook](the-website.md#announcements) and can be sent with the request for an announcement.
+Note that not all presenters may be willing to submit a pull request or it may not be appropriate
+to ask them to, so use discretion when making the request.
 
 Re-using previous presentations is okay, provided that they haven't been given for enough time that repeating
 them will not be repetitive. RITlug publishes talks (where licensing allows) on the website and pulling
 from these is permissible.
 
 Club members may express interest in covering a particular topic and may provide their own presentations as well.
+
+After the Meeting
+---------------
+If the presenter agrees and licensing allows, request a PDF of the presentation from the presenter or
+a link to the presentation on their website. This should be posted to the RITlug website, also
+using [the Runbook instructions](the-website.md#talks) which is a similar process to
+posting announcements. If the presenter is willing, they may submit a pull request for their own
+talk. Do not post the talk without permission and appropriate licenses, ONLY post talks
+that RITlug is permitted to post.
+
+If the presenter is a guest speaker, be sure to thank them for their time and offer to help them to
+their next destination if they are leaving the meeting. Guests invited to RIT by RITlug should
+have pre and post-meeting arrangements made in advance and communicated to the guest.
 
 Topics
 ---------------
