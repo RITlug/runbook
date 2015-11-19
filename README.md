@@ -6,6 +6,8 @@ Table of Contents
 * [Announcements](announcements.md) - process of posting announcements
 * [Eboard Onboarding and Offboarding](eboard-onboarding-offboarding.md) -
 Checklist for eboard transitions
+* [Faculty Adviser](faculty-adviser.md) - Responsibilities, Onboarding, and
+Offboarding
 * [IRC Management](irc-channel.md) - channel overview, management, and handling
 problems
 * [License](LICENSE)
