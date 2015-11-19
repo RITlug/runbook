@@ -7,7 +7,8 @@ adviser, who is listed on TheLink.
 * [Add new Eboard members as Ops on the IRC channel](irc-channel.md#adding-a-new-op)
 * Add new Eboard members as admins on the Facebook group
 * Transfer ownership of the club email address (ritlug at rit)
-* Add new Eboard members to the RITlug Github organization
+* Add new Eboard members to the RITlug Github organization and to the Eboard team.
+Grant them the Ownership role.
 * Have the new eboard members familiarize themselves with the runbook
 * Pass off the clubs office binder to the new president
 * Grant sudo access for the servers to the new Eboard
@@ -23,7 +24,7 @@ the club, former eboard members who continue to be active members often retain
 access to various things._
 
 1. Revoke sudo access from the departing eboard member from the servers
-2. Remove write access for departing eboard members in the Github organization
+2. Remove departing eboard members from the Eboard team on Github (and revoke ownership if they have it)
 3. Revoke admin access on the Facebook group from the departing eboard member
 4. [Revoke Op privileges on the IRC channel from the departing eboard member](irc-channel.md#managing-access)
 5. Remove departing members from their eboard roles on TheLink (they can
