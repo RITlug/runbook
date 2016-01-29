@@ -11,6 +11,7 @@ Offboarding
 * [IRC Management](irc-channel.md) - channel overview, management, and handling
 problems
 * [License](LICENSE)
+* [New Semester Checklist](semester-checklist.md) - tasks to start each semester
 * [Meetings](meetings.md) - format, topics, planning
 * [README - What, Why, Who, and License](README.md)
 * [RITlug Website](the-website.md) - posting announcements, where to find things
