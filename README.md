@@ -4,6 +4,7 @@ Detailed information on how RITlug runs and how to run RITlug.
 Table of Contents
 ----------
 * [Announcements](announcements.md) - process of posting announcements
+* [Club Fairs](club-fairs.md) - Before and after club fairs
 * [Eboard Onboarding and Offboarding](eboard-onboarding-offboarding.md) -
 Checklist for eboard transitions
 * [Faculty Adviser](faculty-adviser.md) - Responsibilities, Onboarding, and
