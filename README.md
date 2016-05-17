@@ -16,6 +16,7 @@ problems
 * [Meetings](meetings.md) - format, topics, planning
 * [README - What, Why, Who, and License](README.md)
 * [RITlug Website](the-website.md) - posting announcements, where to find things
+* [Managing TheLink Roster](thelink-roster.md) - updating roles and primary contact
 
 Wut? Why?
 ----------

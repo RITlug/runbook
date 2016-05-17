@@ -1,7 +1,8 @@
 # Eboard Member Onboarding
 
 * Get elected! Elections are held towards the end of Spring semester
-* Add new eboard members to TheLink under their new positions
+* [Add new eboard members to TheLink under their new positions](thelink-roster.md#updating-eboard-roles).
+* [Update the Primary Contact](thelink-roster.md#updating-the-primary-contact)
 * Set up a time for the new and old eboards to meet with the club faculty
 adviser, who is listed on TheLink.
 * [Add new Eboard members as Ops on the IRC channel](irc-channel.md#adding-a-new-op)
@@ -27,7 +28,7 @@ access to various things._
 2. Remove departing eboard members from the Eboard team on Github (and revoke ownership if they have it)
 3. Revoke admin access on the Facebook group from the departing eboard member
 4. [Revoke Op privileges on the IRC channel from the departing eboard member](irc-channel.md#managing-access)
-5. Remove departing members from their eboard roles on TheLink (they can
+5. [Remove departing members from their eboard roles on TheLink](thelink-roster.md#updating-eboard-roles) (they can
 remain members, no need to remove them completely)
 6. Remove departing members from the Eboard Google Drive folder
 7. Transfer account ownership of club accounts administered by eboard members
