@@ -4,6 +4,7 @@ Detailed information on how RITlug runs and how to run RITlug.
 Table of Contents
 ----------
 * [Announcements](announcements.md) - process of posting announcements
+* [Club Fairs](club-fairs.md) - Before and after club fairs
 * [Eboard Onboarding and Offboarding](eboard-onboarding-offboarding.md) -
 Checklist for eboard transitions
 * [Faculty Adviser](faculty-adviser.md) - Responsibilities, Onboarding, and
@@ -15,6 +16,7 @@ problems
 * [Meetings](meetings.md) - format, topics, planning
 * [README - What, Why, Who, and License](README.md)
 * [RITlug Website](the-website.md) - posting announcements, where to find things
+* [Managing TheLink Roster](thelink-roster.md) - updating roles and primary contact
 
 Wut? Why?
 ----------
