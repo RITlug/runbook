@@ -1,37 +1,33 @@
-# Announcements
+Announcements
+=============
 
-RITlug has two main channels for sending announcements: the RITlug website, and TheLink@RIT Roster.
-Announcements posted on the RITlug website are automatically emailed to the public mailing list on Google Groups.
-Unfortunately, there is no current way to add the public mailing list to TheLink@RIT's mailing list or vice versa.
+## You mean there's more than place for announcements?
 
-In order to post a club-wide announcement, create a new post on the website (see [The Website](the-website.md#announcements))
-and send an email to the roster on TheLink.
+As of 2017, RITlug has three main channels for sending announcements: the RITlug website (a.k.a. Google Groups), TheLink@RIT, and a Mailchimp mailing list. Announcements posted on the RITlug website (via git) are automatically emailed to the public mailing list on Google Groups. IFTTT picks up the git commit and posts it to the Google Groups mailing list. Mailchimp was started during fall 2017 during the Club Fair, but it should be avoided if possible. Unfortunately, there is no current way to add to the private TheLink@RIT mailing list (or vice versa).
 
-Although it isn't the most fluid way of doing things, make sure all announcements are sent out through
-TheLink as it seems to reach people much more effectively. TheLink roster only allows people with RIT accounts,
-hence the additional Google Group. All RIT affiliated individuals should be on TheLink rather than the Google
-Group.
+In order to post a club-wide announcement, create a new post on the website (see [The Website](the-website.md#announcements)) **first**. Commit and push the post. Then, take the text and paste it into an email to the roster on TheLink. You can also take a copy and pasted version to Mailchimp as well.
 
-Posting Announcements on the Website
------------------
+Although it isn't the most fluid way of doing things, make sure all announcements are sent out through TheLink as it seems to reach people much more effectively (it's also our largest mailing list of the three). TheLink roster only allows people with RIT accounts, hence the additional Google Groups and Mailchimp lists. All RIT-affiliated individuals should be on TheLink rather than Google Groups.
+
+
+## Posting Announcements on the Website
+
 _See [The Website](the-website.md#announcements)_
     
     
-Posting Announcements via TheLink
------------------
-_This is available only to eboard members on TheLink_
+## Posting Announcements via TheLink
 
-* Sign into TheLink
-* Go to the club roster
-* Click the button that says "Messaging"
-* Click "Create Relay"
-* On the page that appears, click the "Edit" button under step 1. Check the boxes. To send an email the entire
-club, check the box named "Member"
-* Click Close
-* Add a name. This is how the email is listed for posterity in TheLink but otherwise doesn't matter.
-* Click "Generate"
-* Copy and paste the email link into your email client of choice (this MUST be your RIT email)
-* Type your announcement then click "send"
+_This is available only to eboard members on TheLink._
 
-TheLink will forward your email out to the list of members you selected in the next few minutes, with your email
-address as the "reply-to" link, from "Linux Users Group".
+1. Sign into TheLink@RIT.
+2. Go to RITlug and open the club roster.
+3. Click the button that says "Messaging".
+4. Click "Create Relay".
+5. On the page that appears, click the "Edit" button under step 1. Check the boxes. To send an email to the entire club, check the box named "Member".
+6. Click "Close".
+7. Add a name (usually the email subject line). This is how the email is listed for posterity in TheLink@RIT but otherwise doesn't matter..
+8. Click "Generate".
+9. Copy and paste the email link into your email client of choice.
+10. Type your announcement, click "send". Done!
+
+TheLink will forward your email out to the list of members you selected in the next few minutes, with your email address as the "reply-to" link, from "Linux Users Group".
