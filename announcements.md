@@ -17,6 +17,8 @@ _See [The Website](the-website.md#announcements)_
     
 ## Posting Announcements via TheLink
 
+**THIS IS ONLY MAINTAINED FOR DOCUMENTATION PURPOSES AND HAS BEEN DEPRECATED BY RIT**
+
 _This is available only to eboard members on TheLink._
 
 1. Sign into TheLink@RIT.
