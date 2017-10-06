@@ -13,11 +13,11 @@ Administration
    :maxdepth: 2
    :caption: Documentation about administering the club:
 
-   administration/club-binder.md
-   administration/club-binder-contents.md
-   administration/eboard-onboarding-offboarding.md
-   administration/faculty-adviser.md
-   administration/thelink-roster.md
+   administration/club-binder
+   administration/club-binder-contents
+   administration/eboard-onboarding-offboarding
+   administration/faculty-adviser
+   administration/thelink-roster
 
 Events
 ------
@@ -26,8 +26,8 @@ Events
    :maxdepth: 2
    :caption: Documentation on running club events or regular activities:
 
-   events/club-fairs.md
-   events/meetings.md
+   events/club-fairs
+   events/meetings
 
 Infrastructure
 --------------
@@ -36,8 +36,8 @@ Infrastructure
    :maxdepth: 2
    :caption: Documentation about our infrastructure and services we run:
 
-   infrastructure/irc-channel.md
-   infrastructure/website.md
+   infrastructure/irc-channel
+   infrastructure/website
 
 Tasks
 -----
@@ -46,8 +46,8 @@ Tasks
    :maxdepth: 2
    :caption: Guides on how to perform various regular tasks for the club:
 
-   tasks/announcements.md
-   tasks/semester-checklist.md
+   tasks/announcements
+   tasks/semester-checklist
 
 
 Indices and tables

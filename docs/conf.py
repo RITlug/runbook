@@ -40,7 +40,7 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-# source_suffix = '.rst'
+source_suffix = '.rst'
 
 # The master toctree document.
 master_doc = 'index'
@@ -190,13 +190,3 @@ epub_copyright = copyright
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
 
-
-# -- Options for Markdown support -----------------------------------------
-
-from recommonmark.parser import CommonMarkParser
-
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
-source_suffix = ['.rst', '.md']
