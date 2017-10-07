@@ -3,51 +3,40 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to RIT Linux Users Group Runbook's documentation!
-=========================================================
-
-Administration
---------------
+Welcome to the RITlug Runbook!
+==============================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Documentation about administering the club:
+    :maxdepth: 2
+    :name: admin
+    :caption: Administration
+    :glob:
 
-   administration/club-binder
-   administration/club-binder-contents
-   administration/eboard-onboarding-offboarding
-   administration/faculty-adviser
-   administration/thelink-roster
-
-Events
-------
+    administration/*
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Documentation on running club events or regular activities:
+    :maxdepth: 2
+    :name: events
+    :caption: Events
+    :glob:
 
-   events/club-fairs
-   events/meetings
-
-Infrastructure
---------------
+    events/*
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Documentation about our infrastructure and services we run:
+    :maxdepth: 2
+    :name: infra
+    :caption: Infrastructure
+    :glob:
 
-   infrastructure/irc-channel
-   infrastructure/website
-
-Tasks
------
+    infrastructure/*
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Guides on how to perform various regular tasks for the club:
+    :maxdepth: 2
+    :name: tasks
+    :caption: Tasks
+    :glob:
 
-   tasks/announcements
-   tasks/semester-checklist
+    tasks/*
 
 
 Indices and tables
