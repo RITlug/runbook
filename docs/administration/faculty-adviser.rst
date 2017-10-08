@@ -1,59 +1,66 @@
-RITlug Faculty Adviser
-======================
+Faculty Adviser
+===============
 
-The RIT clubs office requires all SG clubs to have a faculty adviser.
-Faculty advisers are typically more permanent than Eboard members as
-they are not subject to the annual election process.
+All official RIT clubs must have a faculty adviser. The faculty adviser is a
+more permanent position in the club and they are not subject to annual
+elections.
 
-Faculty advisers may change without much notice at any point during the
-year. In the event that this happens, a new faculty adviser should be
-sought as quickly as possible. Once found, the former adviser should be
-offboarded and the new one onboarded.
+The faculty adviser may change at any time during the year. If this happens, a
+new adviser should be found immediately (or else the club risks losing
+recognition by student government). Once found, the former adviser should be
+off-boarded and the new one on-boarded.
 
-Adviser Responsibilities
+
+Adviser responsibilities
 ------------------------
 
-The RITlug faculty adviser may take on a role that is as hands-on or
-hands-off as they see fit. In the past, RITlug's advisers have been
-relatively hands-off provided that the club is well-behaved and that
-communication with the adviser is open. Ideally, when a new adviser is
-joining the club they should speak to the current eboard (it is the
-responsibility of the eboard team to faciliate this) and lay out any
-expectations that they have.
+Faculty advisers can take a hands-on or hands-off role. In the past, RITlug's
+adviser is usually hands-off, assuming the club is well-behaved and there is
+regular communication with the adviser. If a new adviser is selected, they
+should meet with the current Eboard and discuss expectations.
 
-Beyond the role that the faculty adviser chooses to have, the adviser is
-one of the points of contact that the clubs office has for the club.
-There are a few annual forms that the adviser needs to review and sign,
-usually at the beginning and end of the year, which are not overly
-extensive. Periodically, the eboard team may need the adviser to help
-resolve issues with the clubs office which may revolve around renewing
-club resources or reminding the clubs office of the existence of the
-club.
+The adviser is a point of contact for the club and RIT clubs office. Thus,
+there are a few forms that the adviser must sign annually (usually at the
+beginning and end of the year). Periodically, the adviser may be needed to
+resolve issues with the clubs office or with renewing club resources.
 
-Faculty Adviser Onboarding Process (to be followed by the Eboard team)
-----------------------------------------------------------------------
 
--  Speak to the clubs office so that they can add the new adviser to
-   TheLink. This will send the adviser an email invitation which they
-   should accept. Make sure to inquire about other requirements for
-   bringing in a new adviser.
--  Have the new adviser contact the RIT clubs office, as they will need
-   to sign some paperwork to formally accept the role.
--  Follow `the eboard member onboarding
-   process <eboard-onboarding-offboarding.md#eboard-member-onboarding>`__
-   *Note that RIT faculty may request access to club resources such as
-   Google Drive via an alternate email account.*
--  Set up a formal meeting between the eboard team and new adviser so
-   they may communicate their expectations and concerns
+Adviser on-boarding
+-------------------
 
-Faculty Adviser Offboarding Process (to be followed by the Eboard team)
------------------------------------------------------------------------
+- Notify RIT clubs office to add new adviser to CampusGroups
 
-*Note that RITlug is a SG club and is therefore required to have a
-faculty adviser at all times.*
+    - Clubs office sends email invitation they should accept
 
--  Speak to the clubs office so they can remove the former adviser from
-   TheLink.
--  Follow `the eboard member offboarding
-   process <eboard-onboarding-offboarding.md#eboard-member-offboarding>`__
--  If possible, make sure to thank the former adviser for their support
+    - Ask if other steps should be followed to bring in a new adviser, in case
+      requirements by clubs office have changed [#]_
+
+- Instruct new adviser to contact RIT clubs office (they will be sent paperwork
+  to formally accept role)
+
+- Follow Eboard on-boarding procedures for faculty adviser (see
+  :doc:`eboard-onboarding-offboarding`)
+
+- Organize formal meeting between current Eboard and new adviser to communicate
+  expectations and/or concerns
+
+.. [#] Always ask – RIT clubs office often does not clearly communicate when
+   requirements have changed
+
+
+Adviser off-boarding
+--------------------
+
+*Note*: If off-boarding an adviser, ensure a new adviser is selected quickly,
+since RITlug is an officially-recognized club and is required to have a faculty
+adviser at all times.
+
+- Contact clubs office to remove former adviser from CampusGroups
+
+- Follow Eboard off-boarding procedures for faculty adviser (see
+  :doc:`eboard-onboarding-offboarding`)
+
+- Thank your outgoing faculty adviser for their support (getting a physical
+  gift, like a thank you card signed by club members or a gift card is always a
+  nice gesture)
+
