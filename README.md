@@ -1,4 +1,4 @@
-RITlug Runbook
+RITlug Runbook [![Build Status](https://travis-ci.org/RITlug/runbook.svg?branch=master)](https://travis-ci.org/RITlug/runbook)
 ==============
 
 Detailed information on how RITlug runs and how to run RITlug.
