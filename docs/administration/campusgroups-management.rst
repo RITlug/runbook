@@ -1,5 +1,9 @@
-Managing TheLink Roster
-=======================
+Managing CampusGroups
+=====================
+
+*This page still refers to TheLink, the former platform used by RIT clubs
+office for managing clubs. This documentation is still outdated and needs to
+be rewritten for CampusGroups, the new platform deployed by RIT clubs office.*
 
 TheLink is the source of truth for the clubs office and students to get
 in touch with club leadership and club affairs. It needs to be updated

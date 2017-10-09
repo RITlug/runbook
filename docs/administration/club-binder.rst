@@ -1,52 +1,64 @@
 Club Binder
 ===========
 
-The RITlug club binder is a physical source of information about the
-club. It contains hard copies of the club documentation from Github,
-club accounts, and documentation from the clubs office.
+The RITlug club binder is a physical source of information about the club. It
+contains hard copies of the club documentation from GitHub, club accounts, and
+documentation from the RIT club office.
 
-As most of RITlug's documentation is available or maintained as
-electronic records, the RITlug binder is primarily a token passed from
-president to president. Even so, it should be kept up to date as an
-offline mirror of RITlug's documents. At a minimum, it should be updated
-annually.
+The RITlug club binder is passed from president to president during executive
+board transitions. Even though most of RITlug's documentation is available or
+maintained as electronic records, the club binder should be **updated
+annually**.
+
 
 Contents
 --------
 
-See `Club Binder Contents <club-binder-contents.md>`__, kept as a
-separate file so it can be used as the actual table of contents in the
-binder.
+See :doc:`club-binder-contents` to see the table of contents in the club
+binder. This is maintained as a separate document to be printed and inserted
+into the physical binder.
+
 
 Updating the Club Binder
 ------------------------
 
-1. Print the documents, using the instructions below.
-2. Replace the updated pages in the club binder
-3. Update the log at the front of the section you updated
+1. Print documents (using the instructions below)
+2. Replace updated pages in club binder
+3. Update log at front of section you updated in binder
 
-Printing Markdown Documents
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  http://www.markdowntopdf.com/ is a great resource for converting
-   markdown to a more printable format. Upload the pages you need
-   converted and it will immediately give you back a PDF that you can
-   print.
+Printing updated documents
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  To save on paper, try to print only the pages that have been updated
+- Club documents are printable via the rendered version of the Runbook, hosted
+  at `runbook.ritlug.com`_
 
-Club Governance
+- To save on paper, only print updated pages
+
+
+.. _`runbook.ritlug.com`: http://runbook.ritlug.com/
+
+
+Club governance
 ~~~~~~~~~~~~~~~
 
--  Clone the governance repository, install the dependencies, and
-   compile the documents, as explained in the README.md in that
-   repository.
+Part of the club binder includes the club governance, like the constitution.
+The club governance documents are hosted in a different GitHub repo,
+`RITlug/governance`_. Follow these steps [#]_ to generate updated versions of
+the governance documentation.
 
--  Print the PDFs. Once again, try to print only the pages that have
-   been updated.
+- Clone `RITlug/governance`_, install dependencies, compile documents into PDFs
+  from LATeX
 
-Club Accounts
+- Print generated PDFs (only print updated pages to save paper)
+
+
+.. [#] Advanced documentation can be found in the README of `RITlug/governance`_
+.. _`RITlug/governance`: https://github.com/RITlug/governance
+
+
+Club accounts
 ~~~~~~~~~~~~~
 
--  Request a copy of the RITlug budget report from the clubs office.
-   Print the sheets from the document as needed.
+- Request a copy of the RITlug budget report from the clubs office. Print
+  sheets from the document as needed.
