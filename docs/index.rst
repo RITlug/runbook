@@ -32,6 +32,14 @@ Welcome to the RITlug Runbook!
 
 .. toctree::
     :maxdepth: 2
+    :name: roles
+    :caption: Roles
+    :glob:
+
+    roles/*
+
+.. toctree::
+    :maxdepth: 2
     :name: tasks
     :caption: Tasks
     :glob:
