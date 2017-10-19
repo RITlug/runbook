@@ -12,22 +12,27 @@ responsibilities and role of the vice president.
 Description
 -----------
 
-< general description of role, 1-2 paragraphs >
+The Vice President's primary role is to assist the president where possible. This generally includes helping write and send out emails through the github.io repo as well as helping to manage the presentation schedule. These tasks are generally split evenly between the President and Vice Presient. Making sure these two items continue smoothly is vital and is the thus is the primary responsiblity. 
+
+This role is largely picking up slack where the President needs additional help. Items can include anything from fundraising to event planning. Historically, the vice president has taken on external event planning, such as fund raising and expo presentations/displays.
 
 
 Eligibility requirements
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-< basic eligiblity requirements – what if someone is on co-op? away from
-campus? working remote? is under academic suspension (i.e. low GPA)?
+* Must be a full time student on main campus for both semesters.
+* Cannot be on academic probation.
+* Must be available for **most** weekly club meetings and eboard meetings.
+
 
 
 Responsibilities
 ----------------
 
-< responsibilities and routine work that someone in this position is directly
-accountable for – what do they do and what should other eboard members expect
-from this person? >
+* Ensuring weekly mailings are mailed out on time.
+* Maintaing presentation schedule.
+* Planning external events (fund raising, expos, hackathon presents)
+* Picking up slack where needed from President
 
 
 Resources
