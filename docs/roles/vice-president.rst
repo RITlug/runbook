@@ -12,29 +12,50 @@ responsibilities and role of the vice president.
 Description
 -----------
 
-< general description of role, 1-2 paragraphs >
+The vice president assists the president where possible. This includes…
+
+#. Writing and reviewing weekly announcement emails
+#. Manage the presentation schedule
+#. Writing meeting agendas
+#. Interacting with guest speakers / visiting companies
+
+There is a lot of overlap between the president and vice president. These four
+items are the primary responsibilities. There are other secondary tasks outlined
+below.
+
+The vice president also supports the president when they need additional help.
+This could include anything from fundraising to event planning. Historically,
+the vice president takes on external event planning, like fundraising and
+coordinating conference presentations / booths.
 
 
 Eligibility requirements
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-< basic eligiblity requirements – what if someone is on co-op? away from
-campus? working remote? is under academic suspension (i.e. low GPA)?
+* Must be a full time student on main campus for full academic year
+* Cannot be on academic probation
+* Must be available for **75% of weekly club meetings and eboard meetings**
+* Must participate in the club for longer than full semester
+
 
 
 Responsibilities
 ----------------
 
-< responsibilities and routine work that someone in this position is directly
-accountable for – what do they do and what should other eboard members expect
-from this person? >
+* Sending / reviewing weekly announcements
+   * If president is unable to write, vice president assists
+* Maintaining presentation schedule
+   * Coordinating with club community to find speakers, engaging with outside
+     visitors to the university
+* Planning external events
+   * Fundraising
+   * Conference presence
+   * Hackathon planning
+* Assisting president with their responsibilities
 
 
 Resources
 ---------
 
-< any resources, pages, or other things someone coming into this should read to
-be informed and prepared to take on the role – probably best as a list of
-links! >
-
+* […]
 
