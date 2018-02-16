@@ -11,29 +11,39 @@ role of the treasurer.
 Description
 -----------
 
-< general description of role, 1-2 paragraphs >
+The base responsibility is managing and maintaining club budget throughout the
+academic year. Other responsibilities are included in this role. These aspects
+are…
+
+- Organizing fundraiser activities
+- Record-keeping for club expenses (e.g. project materials)
+- Ordering club-branded merchandise as necessary (including shirts, posters,
+  banners, stickers, etc.)
 
 
 Eligibility requirements
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-< basic eligiblity requirements – what if someone is on co-op? away from
-campus? working remote? is under academic suspension (i.e. low GPA)?
+The treasurer must be in good academic standing to maintain their position. A
+club treasurer should be available in-person for club and eboard meetings.
+However, as treasurer is a mandatory position per club guidelines, the treasurer
+may be remote and participate remote (e.g. co-op, study abroad, etc.).
 
 
 Responsibilities
 ----------------
 
-< responsibilities and routine work that someone in this position is directly
-accountable for – what do they do and what should other eboard members expect
-from this person? >
+- Work with club office to manage and maintain club budget
+- Organize financing and fundraising for club projects
+- Organize the purchase of, and aid in the design, of club swag
+- Help create, and purchase, club promotional materials
 
 
 Resources
 ---------
 
-< any resources, pages, or other things someone coming into this should read to
-be informed and prepared to take on the role – probably best as a list of
-links! >
-
+- `Runbook <http://runbook.ritlug.com/>`_
+- `RIT Club Management <https://www.rit.edu/studentaffairs/campuslife/clubs/manage-club>`_
+- `Financial Certification <https://www.rit.edu/studentaffairs/campuslife/financial-certification-test>`_
+- `RITlug logo source files <https://github.com/RITlug/ritlug.github.io/tree/master/img/svg>`_
 
