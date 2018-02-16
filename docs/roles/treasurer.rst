@@ -42,7 +42,7 @@ Responsibilities
 Resources
 ---------
 
-- Runbook
+- `Runbook <http://runbook.ritlug.com/>`_
 - `RIT Club Management <https://www.rit.edu/studentaffairs/campuslife/clubs/manage-club>`_
 - `Financial Certification <https://www.rit.edu/studentaffairs/campuslife/financial-certification-test>`_
 - `RITlug logo source files <https://github.com/RITlug/ritlug.github.io/tree/master/img/svg>`_
