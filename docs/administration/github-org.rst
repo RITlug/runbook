@@ -10,10 +10,10 @@ to manage it.
 Purpose
 *******
 
-The GitHub organization is a central place to manage club projects, an
-approximation of membership, and host some of our infrastructure. Most data is
-static and doesn't change often. The GitHub organization is usually relevant by
-individual club projects or when adding a new member.
+The GitHub organization is a central place to manage club projects, membership,
+and infrastructure. Most data is static and doesn't change often. Setting up
+club projects or adding a new member is when you usually need to interact with
+the GitHub organization.
 
 
 ************
