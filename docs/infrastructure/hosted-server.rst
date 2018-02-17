@@ -1,7 +1,7 @@
 RITlug Server
 =============
 
-RITlug has a hosted server, located in the Institute Hall Datacenter. It's currently owned and maintained by `Solomon Rubin (Serubin) <https://github.com/serubin/>`, however it periminently on lend to RITlug. He remains the primary contact for any major issues. RITlug related use will be maintained by disignated Club Server Admins. 
+RITlug has a hosted server, located in the Institute Hall Datacenter. It's currently owned and maintained by `Solomon Rubin (Serubin) <https://github.com/serubin/>`, however it permanently on lend to RITlug. He remains the primary contact for any major issues. RITlug related use will be maintained by designated Club Server Admins. 
 
 Specifications
 --------------
@@ -11,7 +11,7 @@ PowerEdge R410 Server
 
 * 32gb Ram
 
-* Iten Xeon 6500 CPU
+* Intel Xeon 6500 CPU
 
 * Running Proxmox
 
