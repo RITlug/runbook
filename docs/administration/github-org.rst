@@ -91,7 +91,7 @@ There are four teams:
 #. **Members**: RIT students, faculty, and staff participating in RITlug (does
    not include permissions)
 
-#. **TigerOS Team**: `TigerOS`_ project team (grants admin access to TigerOS
+#. **TigerOS Team**: `TigerOS`_ project team (grants write access to TigerOS
    repositories)
 
 Anyone added to the GitHub organization should belong to at least one team.
