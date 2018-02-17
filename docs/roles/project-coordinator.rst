@@ -23,7 +23,7 @@ The project coordinator must maintain good academic standing as defined by RIT
 to remain a member of eboard.  Due to the hands on nature of the role, the
 project coordinator must be available in person during club and eboard
 meetings.  If needed, a temporary replacement may be appointed to fill the role
-while the project coordinator is out on coop. In that case there should be good
+while the project coordinator is out on co-op. In that case there should be good
 communication between the the two people in order to facilitate a smooth 
 transition.
 
@@ -35,7 +35,7 @@ Responsibilities
 - Mediate disputes between project leads and team members
 - Encourage members to start and participate in club projects
 - Assist project leads in managing their projects
-- Assist project leads in establishing project specific meetings
+- Assist project leads in establishing project-specific meetings
 - Provide general support to project leads and participants
 
 Resources 
