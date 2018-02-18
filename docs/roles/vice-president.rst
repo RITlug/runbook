@@ -15,7 +15,7 @@ Description
 The vice president assists the president where possible. This includes…
 
 #. Writing and reviewing weekly announcement emails
-#. Manage the presentation schedule
+#. Managing the presentation schedule
 #. Writing meeting agendas
 #. Interacting with guest speakers / visiting companies
 
