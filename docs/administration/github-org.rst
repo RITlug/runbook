@@ -33,8 +33,9 @@ Adding new members
 ******************
 
 There is no criteria for adding new members to the RITlug GitHub organization.
-In the future, if a membership criteria is developed, this section should be
-updated.
+There are no requirements to add new members to the RITlug GitHub organization
+other than being an active community member. In the future, if a membership
+criteria is developed, this section should be updated.
 
 Active community members of RITlug should be added to the GitHub organization.
 Adding a new person to the GitHub organization validates their contributions and
