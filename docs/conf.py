@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'RIT Linux Users Group Runbook'
-copyright = '2017, Justin W. Flory, Solomon Rubin, Nate Levesque, Mark Repka, and others'
+copyright = '2017-2018, RITlug Executive Board'
 author = 'Justin W. Flory, Solomon Rubin, Nate Levesque, Mark Repka, and others'
 
 # The version info for the project you're documenting, acts as replacement for
