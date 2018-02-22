@@ -1,6 +1,7 @@
 RITlug Runbook
 ==============
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Build Status](https://travis-ci.org/RITlug/runbook.svg?branch=master)](https://travis-ci.org/RITlug/runbook)
 [![Documentation Status](https://readthedocs.org/projects/ritlug-runbook/badge/?version=latest)](http://runbook.ritlug.com/en/latest/?badge=latest)
 
@@ -46,6 +47,15 @@ contents is available there.
 
 ## License
 
-CC0 1.0 Universal 
+**Dual-licensed project**                                                           
+                                                                                    
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+                                                                                    
+* Code, scripts: **[Mozilla Public License                                          
+  2.0](https://www.mozilla.org/en-US/MPL/) unless otherwise stated.**               
+* Written content, guides, articles, instructions: **[Creative Commons
+  Attribution-ShareAlike 4.0
+  International](https://creativecommons.org/licenses/by-sa/4.0/) unless
+  otherwise stated.**
 
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
