@@ -23,8 +23,8 @@ The Runbook is not the same as club governance documents (e.g. constitution).
 See [RITlug/governance](https://github.com/RITlug/governance) for "legal"
 documents recognized by RIT Clubs office.
 
-**Private information (e.g. credentials, RIT private information, etc.) belongs
-in the Runbook.**
+**Private information (e.g. credentials, RIT private information, etc.) does
+_not_ belong in the Runbook.**
 
 
 ## Who
