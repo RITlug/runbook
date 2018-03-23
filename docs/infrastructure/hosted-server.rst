@@ -79,6 +79,7 @@ When creating a new VM from a template…
 #. Set `Resource Pool` to `RITLUG`
 #. Set name and continue
 #. Resize disk, modify resources as needed
+#. Change MAC address in network settings. Use an unallocated MAC from the list on the eboard GitLab and record the new use in the list.
 #. Start VM, follow any setup scripts
 #. Profit!
 
