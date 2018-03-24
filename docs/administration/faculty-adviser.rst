@@ -17,7 +17,7 @@ Responsibilities
 
 Faculty advisors can take a hands-on or hands-off role.
 Historically, RITlug's advisor is hands-off.
-This assumes the club is in good standing is regular communication with the advisor.
+This assumes the club is in good standing and is in regular communication with the advisor.
 If a new advisor is selected, they should meet with the current eboard and discuss expectations.
 
 The advisor is a point of contact for the club and RIT clubs office.
