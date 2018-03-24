@@ -4,32 +4,24 @@ The RITlug IRC Channel
 Overview
 --------
 
-RITlug maintains an IRC channel on Freenode, which is open to the
-public. RITlug members are free to discuss any topic in the IRC channel,
-although it is expected that discussion adheres to RIT and Freenode
-policies (academic dishonesty, slander, threats, or anything else deemed
-inappropriate by club leadership may result in a warning or a ban at the
-discretion of the Op(s))
+RITlug maintains an IRC channel on Freenode, which is open to the public.
+RITlug members are free to discuss any topic in the IRC channel, although it is expected that discussion adheres to RIT and Freenode policies (academic dishonesty, slander, threats, or anything else deemed inappropriate by club leadership may result in a warning or a ban at the discretion of the Op(s))
 
-The IRC channel is available on Freenode as #ritlug. If you're not
-familiar with Freenode and/or IRC, you may want to brush up on your IRC
-basics. Here's a few things to get you started:
+The IRC channel is available on Freenode as #ritlug.
+If you're not familiar with Freenode and/or IRC, you may want to brush up on your IRC basics. Here's a few things to get you started:
 
-1. Connect to Freenode using the client of your choosing (IRSSI, Pidgin,
-   etc)
+1. Connect to Freenode using the client of your choosing (IRSSI, Pidgin, etc)
 
 -  Server: irc.freenode.net
 -  Username: Whatever you go by!
 -  Protocol: IRC
 -  Password: None
 
-2. Set your nick (May not be necessary if you set a username in your
-   client)
+2. Set your nick (May not be necessary if you set a username in your client)
 
 -  ``/nick <your new name>``
 
-3. Register your Nick (required if you will have Op privileges, highly
-   recommended otherwise)
+3. Register your Nick (required if you will have Op privileges, highly recommended otherwise)
 
 -  ``/msg NickServ register <Your Email> <Your Password>``
 -  NickServ will email you a confirmation code
@@ -43,8 +35,7 @@ Adding a new Op
 
 *This requires you to already have Op privileges*
 
-As an Op, you can modify the permissions of other Ops (assuming you have
-permission to do so) so you can granularly control access if necessary.
+As an Op, you can modify the permissions of other Ops (assuming you have permission to do so) so you can granularly control access if necessary.
 
 After signing in and identifying with NickServ (you will be prompted)
 
@@ -53,17 +44,14 @@ After signing in and identifying with NickServ (you will be prompted)
     /msg ChanServ #ritlug add <username to add> +AOfiorstv
 
 The flags (letters following the +) are detailed in `Flags <#flags>`__.
-You can add or remove flags as necessary in the command depending on the
-access you want to grant. Some flags can't be granted due to
-permissions, such as Founder.
+You can add or remove flags as necessary in the command depending on the access you want to grant. Some flags can't be granted due to permissions, such as Founder.
 
 For removing an Op, scroll down to Managing Access.
 
 Checking Access
 ---------------
 
-ChanServ allows you to check (if you have permissions to do so) who has
-what access to the channel.
+ChanServ allows you to check (if you have permissions to do so) who has what access to the channel.
 
 ::
 
@@ -79,9 +67,8 @@ Managing Access
 ---------------
 
 You can update a user's access levels after adding them, as necessary.
-You MUST add the user, as described in Adding a New Op above, or the
-permissions you grant will only be temporary. Access levels are
-controlled using what are referred to as `Flags <#flags>`__.
+You MUST add the user, as described in Adding a New Op above, or the permissions you grant will only be temporary.
+Access levels are controlled using what are referred to as `Flags <#flags>`__.
 
 Adding permissions to a user
 
@@ -97,8 +84,7 @@ Removing permissions from a user
 
 *(note the +/- in the commands above)*
 
-You can add and remove multiple flags at a time by tacking them onto the
-command, for example
+You can add and remove multiple flags at a time by tacking them onto the command, for example
 
 ::
 
@@ -110,8 +96,7 @@ or by using wildcards (\*), for example
 
     /msg ChanServ flags #ritlug <user to change> -*
 
-Removing a user from the access list (removing all their permissions as
-well)
+Removing a user from the access list (removing all their permissions as well)
 
 ::
 
@@ -146,19 +131,13 @@ Flags are used to grant and revoke access on the channel.
 Handling Problem Users
 ----------------------
 
-Problem users may include users who are frequently disruptive, rude, or
-engage in activities that RIT and/or Freenode do not approve of. If a
-user becomes a problem, they should be warned and reminded of the
-channel policies. If they are a problem repeatedly, then additional
-action should be taken. As a reminder, RIT policies apply to all
-students whether or not they are on campus at the time of the offense,
-if it is against another RIT student or RIT.
+Problem users may include users who are frequently disruptive, rude, or engage in activities that RIT and/or Freenode do not approve of.
+If a user becomes a problem, they should be warned and reminded of the channel policies.
+If they are a problem repeatedly, then additional action should be taken.
+As a reminder, RIT policies apply to all students whether or not they are on campus at the time of the offense, if it is against another RIT student or RIT.
 
-It can sometimes be difficult to identify users in IRC. If their real
-life identity is known and they are a current RIT student or faculty and
-they repeatedly violate RIT policies, they should be reported to the
-proper RIT authorities (Public Safety, Student Conduct, or for cases of
-academic dishonesty, their department).
+It can sometimes be difficult to identify users in IRC.
+If their real life identity is known and they are a current RIT student or faculty and they repeatedly violate RIT policies, they should be reported to the proper RIT authorities (Public Safety, Student Conduct, or for cases of academic dishonesty, their department).
 
 Problem users in IRC can be kicked from the channel by doing
 
@@ -166,15 +145,13 @@ Problem users in IRC can be kicked from the channel by doing
 
     /kick <problem user>
 
-Repeatedly problematic users can be banned from the channel by name or
-by hostmask by doing
+Repeatedly problematic users can be banned from the channel by name or by hostmask by doing
 
 ::
 
     /msg ChanServ akick #ritlug add <problem user OR hostmask>
 
-You can also specify a reason for the ban by adding it to the end of the
-command. Bans can expire after a period of time or can be permanent:
+You can also specify a reason for the ban by adding it to the end of the command. Bans can expire after a period of time or can be permanent:
 
 ::
 

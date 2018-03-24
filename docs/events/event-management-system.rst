@@ -2,14 +2,13 @@
 RIT Event Management System
 ###########################
 
-This page documents the RIT `Event Management System`_ (EMS), the system RIT
-uses to enable students and student organizations to make room reservations and
-requests.
+This page documents the RIT `Event Management System`_ (EMS).
+EMS is the system RIT offers to students and student organizations to make room reservations and requests.
 
 
-**************
-When it's used
-**************
+***************
+When it is used
+***************
 
 RIT EMS is used when you need to make a reservation for a room on RIT's campus.
 Extra options are enabled on student accounts linked to a student organization.
@@ -18,15 +17,13 @@ Extra options are enabled on student accounts linked to a student organization.
 
    The official name for our club in RIT's system is *Linux Users Group*.
 
-Account privileges are managed through CampusGroups (see
-:doc:`../administration/campusgroups-management`). Make sure eboard members are
-current for grant or revoke privileges.
+Account privileges are managed through CampusGroups (see :doc:`../administration/campusgroups-management`).
+Make sure eboard members are current for grant or revoke privileges.
 
 .. figure:: /_static/img/event-management-system-room-options.png
    :alt: Booking options from RIT EMS with student org privileges
 
    Booking options from RIT EMS with student org privileges
-
 
 
 ********

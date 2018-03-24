@@ -1,24 +1,19 @@
 The Website
 ===========
 
-RITlug's website is powered by Github pages and stored in a repository
-in the RITlug Github organization. It is powered by vanilla Jekyll (no
-plugins) as Github pages does not allow plugins for security reasons. In
-order to update any aspect of the site, simply push or merge changes to
-the repository and the changes will take effect within a few minutes.
+RITlug's website is powered by Github pages and stored in a repository in the RITlug Github organization.
+It is powered by vanilla Jekyll (no plugins) as Github pages does not allow plugins for security reasons.
+In order to update any aspect of the site, simply push or merge changes to the repository and the changes will take effect within a few minutes.
 
 Announcements
 -------------
 
-This is a quick rundown of how to post an announcement on the RITlug
-website. See also `Announcements <announcements.md>`__.
+This is a quick rundown of how to post an announcement on the RITlug website.
+See also `Announcements <announcements.md>`__.
 
--  Fork the repository to your own Github account (go to the RITlug
-   repository and click "fork")
--  Clone the repository locally (if desired - you can also create it
-   online)
--  Create a new file in announcements/\_posts named with the convention
-   2015-10-02-new-website.md
+-  Fork the repository to your own Github account (go to the RITlug repository and click "fork")
+-  Clone the repository locally (if desired - you can also create it online)
+-  Create a new file in announcements/\_posts named with the convention 2015-10-02-new-website.md
 -  Add front matter to the file
 
    ::
@@ -35,43 +30,32 @@ website. See also `Announcements <announcements.md>`__.
 -  Add the new file to git
 -  Git commit
 -  Git push to your repository
--  Open a pull request against the master branch (which is default) of
-   the RITlug copy of the repository
+-  Open a pull request against the master branch (which is default) of the RITlug copy of the repository
 -  When your pull is merged, the site will update within a few minutes
 
 Talks
 -----
 
-This follows the same process as announcements, with a couple of small
-tweaks:
+This follows the same process as announcements, with a couple of small tweaks:
 
 -  The files will be put in talks/\_posts
--  There is an extra line in the frontmatter called 'slides' which
-   provides a link to where the slides for the talk can be viewed. This
-   should be a URL, usually along the lines of /talks/your-talk-name.pdf
-   if hosted on the RITlug site
--  The slides (if hosted on the RITlug site) should be put in the talks
-   folder, prefaced with the year and semester. Something like
-   2015-fall-
+-  There is an extra line in the frontmatter called 'slides' which provides a link to where the slides for the talk can be viewed.
+   This should be a URL, usually along the lines of /talks/your-talk-name.pdf if hosted on the RITlug site
+-  The slides (if hosted on the RITlug site) should be put in the talks folder, prefaced with the year and semester. Something like 2015-fall-
 -  If hosted on the RITlug site, the slides should also be committed
 
 Site Source
 -----------
 
-This is the structure of the source code for the site, e.g. where to
-find anything. Most of the structure should be pretty self explanatory.
+This is the structure of the source code for the site, e.g. where to find anything.
+Most of the structure should be pretty self explanatory.
 
-The site uses Google's `Material Design Light
-template <http://getmdl.io>`__, version 1.0. The javascript is patched
-to allow for linking to other pages in the tab bar - a feature which
-should be built in in version 1.1.
+The site uses Google's `Material Design Light template <http://getmdl.io>`__, version 1.0.
+The javascript is patched to allow for linking to other pages in the tab bar - a feature which should be built in in version 1.1.
 
-The site follows a fairly typical Jekyll setup so you can refer to the
-Jekyll documentation.
+The site follows a fairly typical Jekyll setup so you can refer to the Jekyll documentation.
 
-Pointer: You can access announcements from within templates using {{
-site.categories.announcements }} and talks using {{
-site.categories.talks }}.
+Pointer: You can access announcements from within templates using {{ site.categories.announcements }} and talks using {{ site.categories.talks }}.
 
 .. raw:: html
 
@@ -108,5 +92,4 @@ site.categories.talks }}.
 Developing and Previewing
 -------------------------
 
-`Refer to the README in the site
-repository <http://github.com/ritlug/ritlug.github.io>`__
+`Refer to the README in the site repository <http://github.com/ritlug/ritlug.github.io>`__
