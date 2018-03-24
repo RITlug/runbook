@@ -32,7 +32,7 @@ Follow these steps to execute an election.
     
     - After accepting votes, close form, tally responses
     
-    - At Week 12 meeting, announce results and display anonymized results to club members in room
+    - At Week 12 meeting, announce results to club members in room; follow-up with an email announcment after
     
     - After announcing winners, current eboard should **permanently delete** the data associated with voting form (to protect voter identity)
 
