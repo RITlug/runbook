@@ -3,8 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the RITlug Runbook!
-==============================
+RITlug Runbook
+==============
+
+The Runbook is the primary resource to help executive board members of the `RIT Linux Users Group <http://ritlug.com>`_ manage and run the club.
+Different aspects of running the club are detailed in the Runbook.
+Different topics are sorted and organized below.
+
 
 .. toctree::
     :maxdepth: 2
