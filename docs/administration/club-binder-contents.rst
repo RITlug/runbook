@@ -2,8 +2,7 @@
 Club binder contents
 ####################
 
-This document is a table of contents for the RITlug club binder in the RIT
-Clubs office.
+This document is a table of contents for the RITlug club binder in the RIT Clubs office.
 
 
 ****************

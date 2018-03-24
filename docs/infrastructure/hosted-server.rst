@@ -2,10 +2,11 @@
 Hosted server
 #############
 
-RITlug has a hosted server in the Institute Hall data center. It's currently
-owned and maintained by `Solomon Rubin`_ (Serubin). It is permanently on lend to
-RITlug. He remains the primary contact for any major issues. RITlug-related use 
-is maintained by designated club Server Admins. 
+RITlug has a hosted server in the Institute Hall data center.
+It is currently owned and maintained by `Solomon Rubin`_ (Serubin).
+It is permanently on lend to RITlug.
+He remains the primary contact for any major issues.
+RITlug-related use  is maintained by designated club Server Admins. 
 
 
 **************
@@ -31,9 +32,8 @@ PowerEdge R410 Server
 Management
 **********
 
-This section is for management of resources on the hosted server. Some parts of
-RITlug's infrastructure are hosted in GitHub, like our website (see
-:doc:`website`).
+This section is for management of resources on the hosted server.
+Some parts of RITlug's infrastructure are hosted in GitHub, like our website (see :doc:`website`).
 
 Create new VM
 =============
@@ -79,16 +79,16 @@ When creating a new VM from a template…
 #. Set `Resource Pool` to `RITLUG`
 #. Set name and continue
 #. Resize disk, modify resources as needed
-#. Change MAC address in network settings. Use an unallocated MAC from the list on the eboard GitLab and record the new use in the list.
+#. Change MAC address in network settings.
+   Use an unallocated MAC from the list on the eboard GitLab and record the new use in the list.
 #. Start VM, follow any setup scripts
 #. Profit!
 
 Use and Access
 ==============
 
-Use and access is limited to members of the executive board. In the future,
-there may be opportunities for club members to participate in managing RITlug's
-infrastructure.
+Use and access is limited to members of the executive board.
+In the future, there may be opportunities for club members to participate in managing RITlug's infrastructure.
 
 Contacts
 ========

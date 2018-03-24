@@ -3,9 +3,8 @@ Managing CampusGroups
 #####################
 
 `CampusGroups`_ is the club management platform provided by RIT Clubs office.
-For RIT Clubs office record-keeping, CampusGroups is used. This article
-documents routine actions or maintenance work to manage the RITlug CampusGroups
-profile.
+For RIT Clubs office record-keeping, CampusGroups is used.
+This article documents routine actions or maintenance work to manage the RITlug CampusGroups profile.
 
 - `RITlug CampusGroups page`_
 
@@ -32,10 +31,8 @@ Responsibilities
 Update officers
 ***************
 
-CampusGroups has an Officers page used by RIT Clubs office to recognize club
-leadership and assign RIT web service permissions (see
-:doc:`../events/event-management-system`) as needed. The page is under the
-*Dashboard* menu.
+CampusGroups has an Officers page used by RIT Clubs office to recognize club leadership and assign RIT web service permissions (see :doc:`../events/event-management-system`) as needed.
+The page is under the *Dashboard* menu.
 
 .. figure:: /_static/img/campusgroups-management-officers.png
    :alt: Update eboard officers from the Officers page
@@ -49,16 +46,14 @@ RITlug recognizes these positions on our executive board:
 - Treasurer (*required*)
 - Secretary
 - Officer (*role varies*)
-- Faculty advisor
+- Faculty advisor (*required*)
 
 Permissioning
 =============
 
-All eboard officers should be listed as *Active Officer* and *Visible on
-Website*.
+All eboard officers should be listed as *Active Officer* and *Visible on Website*.
 
-The president, vice president, and faculty advisor(s) should be listed as *Main
-contact*.
+The president, vice president, and faculty advisor(s) should be listed as *Main contact*.
 
 .. figure:: /_static/img/campusgroups-management-officers-permissions.png
    :alt: An eboard officer and advisor permissions compared side by side
@@ -68,8 +63,8 @@ contact*.
 Add eboard member
 =================
 
-Begin from the *Officers* page for RITlug in CampusGroups. A member-elect must
-join the RITlug organization in CampusGroups first to appear in the interface.
+Begin from the *Officers* page for RITlug in CampusGroups.
+A member-elect must join the RITlug organization in CampusGroups first to appear in the interface.
 
 #. Click *Add Officer* in upper-right corner
 #. Search by name or RIT email address for the member-elect
@@ -82,18 +77,16 @@ Remove eboard member
 
 .. note::
 
-   This has never been done before in CampusGroups! When done next, it should be
-   documented here.
+   This has never been done before in CampusGroups! When done next, it should be documented here.
 
 
 ****************
 Maintain records
 ****************
 
-RITlug does not use many features of CampusGroups because we already have some
-tools or systems in place. However, RIT Clubs office uses CampusGroups as a
-primary electronic data source for RIT student organizations. Therefore,
-information should be current.
+RITlug does not use many features of CampusGroups because we already have some tools or systems in place.
+However, RIT Clubs office uses CampusGroups as a primary electronic data source for RIT student organizations.
+Therefore, information should be current.
 
 Address
 =======
@@ -112,17 +105,17 @@ Address
 Other records
 =============
 
-Other records are either not regularly updated or not used. Future eboards may
-choose to utilize CampusGroups in more detail.
+Other records are either not regularly updated or not used.
+Future eboards may choose to utilize CampusGroups in more detail.
 
 
 **************
 Hold elections
 **************
 
-Eboard elections must be held via CampusGroups. This is to combat corruption and
-embezzlement of RIT Clubs funding. CampusGroups standardizes student
-organization elections for consistency and fairness.
+Eboard elections must be held via CampusGroups.
+This is to combat corruption and embezzlement of RIT Clubs funding.
+CampusGroups standardizes student organization elections for consistency and fairness.
 
 Elections are a special type of survey in the *Surveys* menu.
 

@@ -1,31 +1,25 @@
 Eboard: Project coordinator 
 ===========================
 
-The project coordinator is one of the elected members of the executive board
-(i.e. "eboard"). The project coordinator is directly responsible for managing
-different projects in the club. Sometimes, the project coordinator may act as a
-project lead for a specific project. This page explains more about the
-responsibilities and role of the project coordinator.
+The project coordinator is one of the elected members of the executive board (i.e. "eboard").
+The project coordinator is directly responsible for managing different projects in the club.
+Sometimes, the project coordinator may act as a project lead for a specific project.
+This page explains more about the responsibilities and role of the project coordinator.
 
 
 Description 
 -----------
 
-The project coordinator is responsible for ensuring that all club projects have
-the resources needed to continue developing.  This may include monetary
-resources, connections to mentors or the like and infrastructure to host the
-projects. 
+The project coordinator is responsible for ensuring that all club projects have the resources needed to continue developing. 
+This may include monetary resources, connections to mentors or the like and infrastructure to host the projects.
 
 Eligibility requirements
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-The project coordinator must maintain good academic standing as defined by RIT
-to remain a member of eboard.  Due to the hands on nature of the role, the
-project coordinator must be available in person during club and eboard
-meetings.  If needed, a temporary replacement may be appointed to fill the role
-while the project coordinator is out on co-op. In that case there should be good
-communication between the the two people in order to facilitate a smooth 
-transition.
+The project coordinator must maintain good academic standing as defined by RIT to remain a member of eboard. 
+Due to the hands on nature of the role, the project coordinator must be available in person during club and eboard meetings.
+If needed, a temporary replacement may be appointed to fill the role while the project coordinator is out on co-op.
+In that case there should be good communication between the the two people in order to facilitate a smooth  transition.
 
 
 Responsibilities 
@@ -43,8 +37,6 @@ Resources
 
 - `The runbook <https://github.com/RITlug/runbook/>`_
 - A sample `RITlug project <https://github.com/RITlug/TigerOS>`_
-- `Freenode webchat <https://webchat.freenode.net>`_ to ask questions about specific 
-  projects
+- `Freenode webchat <https://webchat.freenode.net>`_ to ask questions about specific projects
 - The `TigerOS landing page <https://tigeros.ritlug.com>`_
 - #fedora-respins on freenode was helpful for questions with building TigerOS
-
