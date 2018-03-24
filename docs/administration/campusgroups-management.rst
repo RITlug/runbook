@@ -113,51 +113,19 @@ Future eboards may choose to utilize CampusGroups in more detail.
 Hold elections
 **************
 
-Eboard elections must be held via CampusGroups.
+Elections must be held via CampusGroups.
 This is to combat corruption and embezzlement of RIT Clubs funding.
 CampusGroups standardizes student organization elections for consistency and fairness.
 
 Elections are a special type of survey in the *Surveys* menu.
+Refer to `CampusGroups documentation <https://help.campusgroups.com/forms-and-surveys/running-elections-for-your-group>`_ to create elections in CampusGroups.
 
-Create election
-===============
+Election execution
+==================
 
-.. note::
+.. seealso::
 
-   This section needs to be written
-
-.. todo::
-
-   - Remember details for question submission options, disable editing, etc.
-   - Configure any metadata as needed
-   - Screenshots!
-
-Configure candidates
-====================
-
-.. note::
-
-   This section needs to be written
-
-.. todo::
-
-   - Collect profile picture of candidate
-   - Offer opportunity to publish platform / campaign info
-   - Line up with deadlines for nomination calls (see on/off-boarding doc)
-
-Publish and announce
-====================
-
-.. note::
-
-   This section needs to be written
-
-.. todo::
-
-   - Make sure all options are final
-   - Open election, set expiration date/time
-   - Publish announcement (e.g. mailing list)
-   - After, update officers
+   See :doc:`eboard-onboarding-offboarding` for more information on election execution and policy.
 
 
 .. _`CampusGroups`: https://campusgroups.rit.edu
