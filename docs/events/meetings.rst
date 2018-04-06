@@ -39,7 +39,7 @@ Post-meeting
 
 #. If guest speaker, be sure to thank them
 
-#. If no other classes after, notify a lab assistant at The Cage that the room is no longer in use
+#. If no other classes after, notify a lab assistant at The Cage [1]_ that the room is no longer in use
 
 
 *************
@@ -190,7 +190,12 @@ Offer to help them to their next destination if they are leaving the meeting.
 A small token of appreciation can also be nice (e.g. a thank you card), especially if it is someone who made a special visit or is a regular supporter of RITlug.
 Of course, it is also a good idea to thank your fellow eboard members for their time on a presentation too!
 
-Lastly, notify a lab assistant in The Cage if there are no scheduled classes or meetings after RITlug.
+Lastly, notify a lab assistant in The Cage [1]_ if there are no scheduled classes or meetings after RITlug.
 In the past, RITlug was the last scheduled session in the lab we used.
 The GCCIS administrators request RITlug to notify a lab assistant when we are finished, so they can lock the room for the night.
 The administrators usually remind eboard members at the start of the semester, but be mindful whether there is anything after a general meeting.
+
+
+.. [1] "The Cage" is the equipment closet room for IST lab courses.
+       It is located on the second floor of GCCIS towards Slaughter Hall.
+       GOL-2320 is the System Administration Lab, which has direct access to The Cage.
