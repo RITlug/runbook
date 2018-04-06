@@ -1,80 +1,201 @@
+########
 Meetings
+########
+
+This page documents RITlug general meetings.
+Topics include meeting format, meeting topics, how to plan a meeting, and what to do after a meeting.
+Occasionally, there are "special" meetings or project meetings, which may follow a different format (TigerOS meetings, game nights, etc.).
+Special meetings are not covered by this page.
+
+
+*****************
+Meeting checklist
+*****************
+
+Pre-meeting
+===========
+
+#. Plan topic(s) for meeting
+
+#. Announce meeting and topic (see :doc:`../tasks/announcements`)
+
+#. Prepare presentation, slides, or handouts
+
+#. Advertise special topics (e.g. posters)
+
+Meeting
+=======
+
+#. Ensure at least one eboard member is present prior to meeting start time (15 minutes preferably)
+
+#. At start, share any announcements and introduce presenter
+
+#. Ensure at least one eboard member is present until the end of the meeting
+
+Post-meeting
+============
+
+#. Collect slides as PDF from presenter, post to RITlug website
+
+#. If guest speaker, be sure to thank them
+
+#. If no other classes after, notify a lab assistant at The Cage [1]_ that the room is no longer in use
+
+
+*************
+Date and time
+*************
+
+At the start of each semester, eboard members decide a date and time for RITlug general meetings.
+A date and time should be selected based on availability of all eboard members.
+Times with better availability for all eboard members are preferred.
+This helps build in flexibility in case of illness or unexpected circumstances, if someone is unable to attend.
+
+If possible, a consistent date and time across semesters is preferred.
+This helps eboard and club members plan their semester accordingly.
+However, if a changed time cannot be avoided, it is better to choose a more flexible time than the same time as a previous semester.
+
+Historically, RITlug meetings are held on Friday evenings, from 4:00pm until 6:00pm.
+
+
+************************
+Pre-meeting preparations
+************************
+
+Planning ahead for a meeting is the most important step to run a successful meeting.
+
+Generally, meetings should have a topic five days before the meeting.
+Once a topic is decided, an email announcement and Slack announcement should be sent (see :doc:`../tasks/announcements`).
+The sooner an announcement is shared, the better probability of better attendance.
+
+Choosing meeting topics
+=======================
+
+There are no explicit restrictions for meeting topics.
+Topics are usually related to Linux.
+However, open source technology or general technology are also acceptable.
+It is best when topics are something an eboard member is genuinely interested in.
+
+Sometimes, a guest speaker or club member may propose a topic.
+If it is someone outside of the eboard, they should submit a talk title and a 3-4 sentence abstract of their talk.
+Use best judgment if the topic is a good fit for RITlug.
+All talks should aim to teach and share knowledge.
+Anything that creates humor at the expense of someone else or a group of people, or contradicts RIT student behavior policy is not acceptable.
+
+Additionally, consider breaking the idea of a "traditional" talk or presentation.
+Sometimes the best RITlug meetings were not talks or presentations, but game nights or lightning talks.
+What is detailed here is not the limit to your creativity.
+
+Reusing presentations
+=====================
+
+Generating new content every week for two semesters is hard.
+There is a large archive of past presentations by RITlug eboard members in the RITlug Google Drive folder.
+Reusing past presentations is acceptable, assuming they were not recently given.
+Avoid giving the same presentation more than once or twice a year.
+
+Posters
+=======
+
+Surprisingly, posters are wildly effective for advertising and promoting an event.
+For special topics or more detailed presentations, RITlug prepares and hangs posters around campus (not only GCCIS).
+These are usually effective for drawing interest and building some "hype" for a presentation.
+
+In the past, we tried hanging posters every week, but for the small size of our eboard, this is challenging.
+If possible, try to involve club members to help with this task.
+If not, prioritize topics that may be interesting to outsiders.
+Then, try to hang posters two weeks ahead of a presentation or meeting.
+Posters are not as effective if posted during the same week as a scheduled presentation.
+
+
+*******************
+Running the meeting
+*******************
+
+This section covers both the general schedule of a meeting and the format of how they run.
+
+Schedule
 ========
 
-This page covers when meetings happen, the typical RITlug meeting format and topics, how to plan and announce a meeting, and what to do following the meeting.
+Exact structure and order of events depends on the semester.
 
-Note that this is a typical meeting.
-RITlug holds the occasional "special" meeting which do not always follow this format (think elections and similar).
+In the past, RITlug met late on Friday evenings, and sometimes people had classes that ended in the middle of a RITlug meeting.
+Because of this, we chose to follow this structure:
 
-Meeting Checklist (steps are detailed later in the document)
-------------------------------------------------------------
+- *30 minutes*: General discussion / announcements
 
-1. Make sure an eboard member will be available and present in the room prior to the meeting (15 minutes is usually fine).
-2. Plan a topic for the meeting (including creating presentations if necessary)
-3. Announce the meeting topic
-4. Hold the meeting! Prior to a talk, give any club announcements and introduce the presenter.
-5. Post the talk to the RITlug website, if permitted
-6. Ensure an Eboard member is present until the end of the meeting (or end the meeting early, if absolutely necessary)
+- *1 hour*: Presentation / workshop
 
-When
-----
-
-Meetings are held Friday evenings 4-6PM.
-Although late, the room the club meets in is consistently available during this time so that we can keep a consistent time.
-Keeping a consistent time allows members to plan their schedules around meetings.
+- *30 minutes*: General discussion / Q&A
 
 Format
-------
+======
 
-RITlug meetings are casual and often driven by interruption.
-The meetings are structured so that the first half of the meeting is reserved for presentations (planned in advance).
-These presentations may not take up the entirety of the first hour.
-This allows for presentations to run long and for questions if the club takes interest, without necessarily constraining them to a shorter time slot than is ideal.
+Meetings are usually split into the two parts: presentation and general discussion.
 
-Presentations given by club members usually welcome interruption for questions or observations.
-This allows for presentations to expand to suit the interests of those present at the meeting and often leads to interesting tangents that would otherwise not have the opportunity to come up.
-Interruptions are encouraged to be polite by waiting for a pause or bringing up questions between slides.
-This is not a typical way of giving presentations so guest speakers should be warned, or the club asked to hold their questions to the end, depending on the speaker.
+Presentations
+-------------
 
-The remainder of the meeting after the presentation is unstructured.
-This provides time for members to experiment with the topic that was presented, raise questions and concerns, get general tech support, and openly discuss other facets of the Linux and FOSS worlds.
-Occasionally, impromptu presentations may appear during this time as well.
+The presentation or workshop is the core part of the meeting.
+Speakers should expect to have a full hour and try to fill that time.
+To help with this, questions and comments are generally encouraged during the meeting, so long as they are on topic and courteous.
+Questions help fill the time and help build better understanding of the topic as we go.
 
-Splitting the meeting into two sections gives members the option to stay for only one portion of the meeting.
-This can be ideal for some due to classes or other scheduling.
-Members are free to come and go as they feel the need.
-This also seems to promote learning and the club to form a community, rather than just being a group of people who meet on a weekly basis.
+This format may be foreign to a guest speaker.
+Sometimes, club members may have a question or comment, but it may come across as an interruption.
+If hosting a speaker who is not a regular attendee of meetings, advise them about this ahead of time.
+You may also suggest they explicitly mention they will take questions and comments at the end of the presentation.
 
-Planning and Announcing
------------------------
+This format has not been problematic.
+However, the "interruptions" are usually on topic and courteous.
+As an eboard member, if a side conversation stretches out of hand, do not be afraid to help the presenter and remind attendees there is time for questions at the end.
 
-Meetings should be planned in advance of the meeting with at least one presentation.
-Once the formal topic of the meeting is decided, an announcement should be sent out to the club.
-See `Announcements <announcements.md>`__.
-As part of the announcement process is handled via Github, presenters should be encouraged to submit their announcement as a pull request against the website.
-Once merged, the eboard should also copy the announcement and send it out via TheLink.
-Instructions for sending an announcement are available `in the Runbook <the-website.md#announcements>`__ and can be sent with the request for an announcement.
-Note that not all presenters may be willing to submit a pull request or it may not be appropriate to ask them to, so use discretion when making the request.
+General discussion
+------------------
 
-Re-using previous presentations is okay, provided that they haven't been given for enough time that repeating them will not be repetitive.
-RITlug publishes talks (where licensing allows) on the website and pulling from these is permissible.
+The general discussion parts of the meeting are unstructured.
+This time is helpful for deeper questions on what was presented or for club members to get help with Linux or other tech problems.
+Other times, wider discussion on Linux, its community, or open source fit into this time.
 
-Club members may express interest in covering a particular topic and may provide their own presentations as well.
+As an eboard member, this time is ideal for sharing club announcements or updates.
+For example, advertising events in the FOSS community, upcoming hackathons, or announcing elections are good topics.
+Sometimes, the best way to convey information is in person.
+Do not hesitate to take advantage of the time to talk about RITlug too.
 
-After the Meeting
------------------
+Additionally, this is a great time to get to know the community better.
+If you notice a new attendee or even a regular, try to include them in a conversation.
+Ask them how their semester is going, see if they are working on any fun projects, or let them bring something up too.
+If only a few people are present, it can also be a good opportunity to solicit feedback on how members think things are going.
 
-If the presenter agrees and licensing allows, request a PDF of the presentation from the presenter or a link to the presentation on their website.
-This should be posted to the RITlug website, also using `the Runbook instructions <the-website.md#talks>`__ which is a similar process to posting announcements.
-If the presenter is willing, they may submit a pull request for their own talk.
-Do not post the talk without permission and appropriate licenses, ONLY post talks that RITlug is permitted to post.
 
-If the presenter is a guest speaker, be sure to thank them for their time and offer to help them to their next destination if they are leaving the meeting.
-Guests invited to RIT by RITlug should have pre and post-meeting arrangements made in advance and communicated to the guest.
+********************
+Post-meeting wrap-up
+********************
 
-Topics
-------
+There are three steps to wrapping up a meeting:
 
-There aren't any specific restrictions for meeting topics.
-Topics usually are Linux-related but also can be related to other open source technologies, or other technologies in general.
-Presenting about anything is permissible as long as it is appropriate and there is interest from the club.
+- Collect PDF copy of slides from speaker
+
+- Thank guest speaker and escort them out, if applicable
+
+- Notify lab assistant that room is no longer in use, if applicable
+
+RITlug typically collects PDF slides from speakers to share on our website.
+If the presenter is not a member of eboard, ask if they would like to share their slides with the club community.
+If so, request a PDF copy of their slides or presentation material to share.
+After, post the PDF slides to the website as a new talk (see :doc:`../infrastructure/website`).
+
+If the presenter is a guest speaker, be sure to thank them for their time and participation in RITlug.
+Offer to help them to their next destination if they are leaving the meeting.
+A small token of appreciation can also be nice (e.g. a thank you card), especially if it is someone who made a special visit or is a regular supporter of RITlug.
+Of course, it is also a good idea to thank your fellow eboard members for their time on a presentation too!
+
+Lastly, notify a lab assistant in The Cage [1]_ if there are no scheduled classes or meetings after RITlug.
+In the past, RITlug was the last scheduled session in the lab we used.
+The GCCIS administrators request RITlug to notify a lab assistant when we are finished, so they can lock the room for the night.
+The administrators usually remind eboard members at the start of the semester, but be mindful whether there is anything after a general meeting.
+
+
+.. [1] "The Cage" is the equipment closet room for IST lab courses.
+       It is located on the second floor of GCCIS towards Slaughter Hall.
+       GOL-2320 is the System Administration Lab, which has direct access to The Cage.
