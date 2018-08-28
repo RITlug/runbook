@@ -16,6 +16,8 @@ Extra options are enabled on student accounts linked to a student organization.
 .. hint::
 
    The official name for our club in RIT's system is *Linux Users Group*.
+   Events should be entered as "Student Org Space Confirmed" to signal club office to approve them, at which point they will change to "Student Org Event Approved" (or similar).
+   FYI, at time of writing the process for rooms not available normally (such as Golisano labs) is being changed, specifics unknown.
 
 Account privileges are managed through CampusGroups (see :doc:`../administration/campusgroups-management`).
 Make sure eboard members are current for grant or revoke privileges.
@@ -30,19 +32,8 @@ Make sure eboard members are current for grant or revoke privileges.
 Contacts
 ********
 
-There are two contacts for issues / problems with RIT EMS.
-
-- **Bailey McBride**
-
-  - *Title*: Event Management Graduate Assistant
-  - *Email*: studentevents@rit.edu
-  - *Phone*: +1 (585) 475-5796
-
-- **Alyshia O'Connor**
-
-  - *Title*: Associate Director, Center for Campus Life
-  - *Email*: amzccl@rit.edu
-  - *Phone*: +1 (585) 475-7651
-
+Issues with EMS should be emailed to studentevents@rit.edu which is maintained by a student worker.
+When an event is approved you will be emailed different addresses to contact should changes be needed.
+Beyond that the Tiger Suite should be visited in-person.
 
 .. _`Event Management System`: https://reserve.rit.edu/
