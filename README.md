@@ -10,31 +10,26 @@ Detailed information on how to run and manage the RIT Linux Users Group (RITlug)
 
 ## About
 
-This repository documents information about how RITlug is managed and operated
-by executive board (eboard) members. The Runbook helps for eboard on-boarding /
-off-boarding and following up with routine tasks.
+This repository documents information about how RITlug is managed and operated by executive board (eboard) members.
+The Runbook helps for eboard on-boarding / off-boarding and following up with routine tasks.
 
-The Runbook is a living collection of documents that evolves as club operations
-change.
+The Runbook is a living collection of documents that evolves as club operations change.
 
 #### What this is not
 
 The Runbook is not the same as club governance documents (e.g. constitution).
-See [RITlug/governance](https://github.com/RITlug/governance) for "legal"
-documents recognized by RIT Clubs office.
+See [RITlug/governance](https://github.com/RITlug/governance) for "legal" documents recognized by RIT Clubs office.
 
-**Private information (e.g. credentials, RIT private information, etc.) does
-_not_ belong in the Runbook.**
+**Private information (e.g. credentials, RIT private information, etc.) does _not_ belong in the Runbook.**
 
 
-## Who
+## Who is the Runbook for?
 
-The Runbook is intended as a resource for the RITlug eboard. Club members are
-welcomed and encouraged to read the Runbook and make suggestions.
+The Runbook is a resource for the RITlug eboard.
+Club members are welcomed and encouraged to read the Runbook and make suggestions.
 
-The Runbook is officially maintained by RITlug's secretary (in the event of no
-secretary, then president). However, all eboard members should update their
-processes or knowledge areas on an ongoing basis.
+The Runbook is officially maintained by RITlug's secretary (in the event of no secretary, then president).
+However, all eboard members should update their processes or knowledge areas on an ongoing basis.
 
 
 ## Read the Runbook
@@ -45,6 +40,11 @@ The Runbook is hosted on [ReadTheDocs](https://readthedocs.org/). A table of
 contents is available there.
 
 
+## Contribute to the Runbook
+
+See [CONTRIBUTING.md](https://github.com/RITlug/runbook/blob/master/.github/CONTRIBUTING.md "How to contribute to the RITlug Runbook").
+
+
 ## License
 
 **Dual-licensed project**                                                           
@@ -52,10 +52,6 @@ contents is available there.
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
                                                                                     
-* Code, scripts: **[Mozilla Public License                                          
-  2.0](https://www.mozilla.org/en-US/MPL/) unless otherwise stated.**               
-* Written content, guides, articles, instructions: **[Creative Commons
-  Attribution-ShareAlike 4.0
-  International](https://creativecommons.org/licenses/by-sa/4.0/) unless
-  otherwise stated.**
+* Code, scripts: **[Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/) unless otherwise stated.**               
+* Written content, guides, articles, instructions: **[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated.**
 
