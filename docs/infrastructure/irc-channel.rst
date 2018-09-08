@@ -1,171 +1,207 @@
-The RITlug IRC Channel
-======================
+###########
+IRC channel
+###########
 
+The purpose of this document is to inform and instruct how to manage the RITlug IRC channel on the Freenode IRC servers.
+
+
+********
 Overview
---------
+********
 
-RITlug maintains an IRC channel on Freenode, which is open to the public.
-RITlug members are free to discuss any topic in the IRC channel, although it is expected that discussion adheres to RIT and Freenode policies (academic dishonesty, slander, threats, or anything else deemed inappropriate by club leadership may result in a warning or a ban at the discretion of the Op(s))
+RITlug maintains a public IRC channel on Freenode.
+The channel is available on `Freenode`_ as ``#ritlug``.
+Additionally, it is bridged to the ``#general`` channel on Slack.
+Interactions and behavior for IRC adhere to all existing university and club policies.
+These policies are not defined in this document.
 
-The IRC channel is available on Freenode as #ritlug.
-If you're not familiar with Freenode and/or IRC, you may want to brush up on your IRC basics. Here's a few things to get you started:
 
-1. Connect to Freenode using the client of your choosing (IRSSI, Pidgin, etc)
+********************
+Join the IRC channel
+********************
 
--  Server: irc.freenode.net
--  Username: Whatever you go by!
--  Protocol: IRC
--  Password: None
+Riot
+====
 
-2. Set your nick (May not be necessary if you set a username in your client)
+For more information about using Riot as an IRC client, read this article on `how to use Riot for IRC <https://opensource.com/article/17/5/introducing-riot-IRC>`__.
 
--  ``/nick <your new name>``
+Web chat
+========
 
-3. Register your Nick (required if you will have Op privileges, highly recommended otherwise)
+A short-term chat session in your browser is possible.
+You will only remain connected as long as you are online.
+Join the channel via the `Freenode web chat bridge <https://webchat.freenode.net/?channels=ritlug>`__.
 
--  ``/msg NickServ register <Your Email> <Your Password>``
--  NickServ will email you a confirmation code
+IRC client
+==========
 
-4. Join the RITlug channel: ``/join #ritlug``
+These instructions apply if you are using a more traditional IRC client.
 
-Other commands are detailed in the sections below.
+1. Connect to Freenode using the client of your choosing (IRSSI, HexChat, Pidgin, etc)
 
-Adding a new Op
----------------
+- **Server**: irc.freenode.net
+- **Username**: preferred public username in chat
+- **Protocol**: IRC
+- **Password**: None
 
-*This requires you to already have Op privileges*
+2. Register your nick, or username, with NickServ (required for operator privileges, highly recommended for all)
 
-As an Op, you can modify the permissions of other Ops (assuming you have permission to do so) so you can granularly control access if necessary.
+- ``/query NickServ register <your email> <your password>``
+- NickServ emails a confirmation code
 
-After signing in and identifying with NickServ (you will be prompted)
+3. Join the RITlug channel: ``/join #ritlug``
 
-::
 
-    /msg ChanServ #ritlug add <username to add> +AOfiorstv
+******************
+Add a new operator
+******************
 
-The flags (letters following the +) are detailed in `Flags <#flags>`__.
-You can add or remove flags as necessary in the command depending on the access you want to grant. Some flags can't be granted due to permissions, such as Founder.
+An operator is IRC lingo for a channel administrator.
+An operator can kick, quiet, and ban other users in the channel.
+They also have other permissions, like changing the channel's topic and adjusting other channel metadata.
+New operators may only be added by current operators.
 
-For removing an Op, scroll down to Managing Access.
+First, sign in to IRC and ensure you identify your username with NickServ.
+After, run the following command to add a new operator::
 
-Checking Access
----------------
+    /query ChanServ ACCESS #ritlug ADD <Freenode username> +AORfiorstv
 
-ChanServ allows you to check (if you have permissions to do so) who has what access to the channel.
+The flags (letters following the ``+``) are detailed in `Flags <#flags>`__.
+Some flags can't be granted due to permissions, such as Founder.
 
-::
 
-    /msg ChanServ access #ritlug list
+********************
+Check channel access
+********************
 
-or with
+ChanServ allows you to check (if you have permissions) who has what access to the channel.
+Run either of the following commands to see the access list for the entire channel or for a specific user::
 
-::
+    /query ChanServ ACCESS #ritlug LIST
+    /query ChanServ ACCESS #ritlug INFO <user to check>
 
-    /msg ChanServ access #ritlug info <user to check>
 
-Managing Access
----------------
+*************************************
+Manage channel access and permissions
+*************************************
 
-You can update a user's access levels after adding them, as necessary.
-You MUST add the user, as described in Adding a New Op above, or the permissions you grant will only be temporary.
-Access levels are controlled using what are referred to as `Flags <#flags>`__.
+You can update a user's access levels after adding them via ChanServ.
+Access levels are controlled using `flags <#flags>`__.
 
-Adding permissions to a user
-
-::
-
-    /msg ChanServ flags #ritlug <user to change> +<your flags to add>
-
-Removing permissions from a user
-
-::
-
-    /msg ChanServ flags #ritlug <user to change> -<your flags to add>
-
-*(note the +/- in the commands above)*
-
-You can add and remove multiple flags at a time by tacking them onto the command, for example
-
-::
-
-    /msg ChanServ flags #ritlug <user to change> +Afi
-
-or by using wildcards (\*), for example
+Add permissions to user
+=======================
 
 ::
 
-    /msg ChanServ flags #ritlug <user to change> -*
+    /query ChanServ ACCESS #ritlug ADD <Freenode username> +<your flags to add>
 
-Removing a user from the access list (removing all their permissions as well)
+You can add or remove multiple flags at once by appending them::
 
-::
+    /query ChanServ ACCESS #ritlug ADD <Freenode username> +Vv
 
-    /msg ChanServ access #ritlug del <user to remove>
+Remove permissions from user
+============================
 
+Remove a user from the access list and all of their permissions::
+
+    /query ChanServ ACCESS #ritlug DEL <Freenode username>
+
+
+*****
 Flags
------
+*****
 
-Flags are used to grant and revoke access on the channel.
+Flags grant and revoke access to the channel.
 
 .. raw:: html
 
    <pre>
-   Flag    Description
-   +v  Enables use of the voice/devoice commands.
-   +V  Enables automatic voicing.
-   +o  Enables the use of the op/deop commands.
-   +O  Enables automatic op
-   +s  Enables the use of the SET command
-   +i  Enables use of the INVITE and GETKEY commands.
-   +r  Enables use of the KICK, KICKBAN, BAN and UNBAN commands.
-   +R  Enables use of the RECOVER and CLEAR commands.
-   +f  Enables modification of channel access lists.
-   +t  Enables use of the TOPIC and TOPICAPPEND and TOPICPREPEND commands.
-   +A  Enables viewing of channel access lists.
-   +S  Marks the user as a SUCCESSOR.
-   +F  Grants full founder access.
-   +b  Enables automatic kickban.
-   +e  Exempts from +b and enables unbanning self.
+   Flag     Description
+   +v       Enables use of the voice/devoice commands.
+   +V       Enables automatic voicing.
+   +o       Enables the use of the op/deop commands.
+   +O       Enables automatic op
+   +s       Enables the use of the SET command
+   +i       Enables use of the INVITE and GETKEY commands.
+   +r       Enables use of the KICK, KICKBAN, BAN and UNBAN commands.
+   +R       Enables use of the RECOVER and CLEAR commands.
+   +f       Enables modification of channel access lists.
+   +t       Enables use of the TOPIC and TOPICAPPEND and TOPICPREPEND commands.
+   +A       Enables viewing of channel access lists.
+   +S       Marks the user as a SUCCESSOR.
+   +F       Grants full founder access.
+   +b       Enables automatic kickban.
+   +e       Exempts from +b and enables unbanning self.
    </pre>
 
-Handling Problem Users
-----------------------
 
-Problem users may include users who are frequently disruptive, rude, or engage in activities that RIT and/or Freenode do not approve of.
-If a user becomes a problem, they should be warned and reminded of the channel policies.
-If they are a problem repeatedly, then additional action should be taken.
+**************************
+How to respond to conflict
+**************************
+
+This section explains how to respond to conflict in the IRC channel.
+Sometimes it may be from club members.
+More likely, it will be from spammers or groups not associated with RIT.
+
+For RIT students, faculty, and staff, their behavior in the channel is governed by RIT and RITlug club policy.
+Policy is not defined in this document.
 As a reminder, RIT policies apply to all students whether or not they are on campus at the time of the offense, if it is against another RIT student or RIT.
 
 It can sometimes be difficult to identify users in IRC.
 If their real life identity is known and they are a current RIT student or faculty and they repeatedly violate RIT policies, they should be reported to the proper RIT authorities (Public Safety, Student Conduct, or for cases of academic dishonesty, their department).
 
-Problem users in IRC can be kicked from the channel by doing
+Kick out a user
+===============
+
+Kick out a user from the IRC channel with this command::
+
+    /kick <username>
+
+Kick and permanently ban a user
+===============================
+
+If a kick does not end the conflict, a user may be banned from the channel.
+When banning a user, IRC does not typically remove them from the channel.
+The recommended action is issuing a **kick-ban**.
+The following command kicks out and bans someone from the channel by their name or `hostmask <http://www.geekshed.net/2012/03/what-is-a-hostmask/>`__::
+
+    /query ChanServ akick #ritlug ADD <username OR hostmask>
+
+It is recommended to add a reason to a ban for archive purposes.
+Append a reason to a permanent ban with this command::
+
+    /query ChanServ akick #ritlug ADD <username OR hostmask> !P Permanently banned for harassing other RITlug members
+
+Kick and temporarily ban a user
+===============================
+
+Set a ban with a time expiration with this command::
+
+    /query ChanServ akick #ritlug ADD <username OR hostmask> !T 5d Banned for five days: Rude behavior towards others
+
+List all banned users
+=====================
 
 ::
 
-    /kick <problem user>
+    /query ChanServ akick #ritlug LIST
 
-Repeatedly problematic users can be banned from the channel by name or by hostmask by doing
-
-::
-
-    /msg ChanServ akick #ritlug add <problem user OR hostmask>
-
-You can also specify a reason for the ban by adding it to the end of the command. Bans can expire after a period of time or can be permanent:
+Unban a user
+============
 
 ::
 
-    /msg ChanServ akick #ritlug add <problem user> !P You are banned permamently
-    /msg ChanServ akick #ritlug add <problem user> !T 5d You are banned for 5 days
+    /query ChanServ akick #ritlug DEL <username OR hostmask>
 
-You can view the list of banned users with
 
-::
+*********************
+Channel configuration
+*********************
 
-    /msg ChanServ akick #ritlug list
+.. note::
 
-And you can unban a user by running
+   This section will explain how the channel is configured, in light of the August 2018 Freenode spam attacks.
+   It will be added soon.
 
-::
 
-    /msg ChanServ akick #ritlug del <no longer problem user>
+.. _Freenode: https://freenode.net/
