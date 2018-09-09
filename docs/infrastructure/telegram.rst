@@ -24,6 +24,17 @@ However, the Telegram group and IRC channel were kept online for convenience.
 The work to maintain a bridge across all groups was simple: run a bot and forget.
 Since this is easy to maintain, we chose to support the bridge.
 
+Teleirc bridge
+==============
+
+The IRC bridge uses `RITlug/teleirc <https://github.com/RITlug/teleirc>`__ to run the bridge.
+This service is run off of RITlug infrastructure.
+See documentation for the Teleirc bridges for more information.
+
+.. note::
+
+   Once Teleirc bridge documentation is written, a cross-document link should be added to this section.
+
 
 *****************
 Moderation policy
@@ -102,7 +113,8 @@ Administrator list
 * Josh Bicking (@jibby0)
 * Ian Flournoy (@icflournoy)
 
-.. [#] Be careful about IRC spam – if you ban from the IRC spam messages, you may disable or ban the IRC bridge. Only delete individual messages or bulk-delete.
+.. [#] Be careful about IRC spam – if you ban from the IRC spam messages, you may disable or ban the IRC bridge.
+       Only delete individual messages or bulk-delete.
 .. [#] *Creator* status is equivalent to super admin - this admin can update privileges for all other administrators.
 
 .. _@ritlug: https://t.me/ritlug
