@@ -9,18 +9,18 @@ Tasks which should be done during the break.
 
 -  Hold weekly/bi-weekly eboard meetings.
 -  Complete any outstanding eboard :doc:`transition tasks <../administration/eboard-onboarding-offboarding>`
--  Discuss plans for semester and brainstorm topics to do next semester.
--  Plan for the club galla (fall semester only).
+-  Discuss plans and brainstorm for next semester.
+-  Plan for the Activities Gala (fall semester only).
 -  Reserve meeting space.
 
 At Start of Semester
 --------------------
-Tasks for the last few weeks of break.
+Tasks for last few weeks of break.
 
 -  Set up a meeting with the club faculty adviser to discuss plans for the semester.
 -  Create a poster for the start of the semester.
--  Present at Club Galla (fall semester only).
--  Send out a welcome back to college/RITLug email to people from the club galla and returning members.
+-  Present at Activities Gala (fall semester only).
+-  Send out a welcome email to people from the gala and returning members.
 
 Post-Semester
 -------------
