@@ -2,17 +2,17 @@
 Eboard transitioning
 ####################
 
-This document explains how the exiting RITlug executive board (a.k.a. eboard) transitions to a new, incoming executive board.
+This document explains how the exiting RITlug executive board (a.k.a. *eboard*) transitions to a new, incoming executive board.
 
 
 ***************************
 On-boarding incoming eboard
 ***************************
 
-These steps focus on how to on-board new members to RITlug's eboard.
+These steps explain how to on-board new members to the RITlug eboard.
 
-Elections
-=========
+Hold elections
+==============
 
 Elections are held towards the end of the spring semester.
 Running an annual election is required by the club office and should never be skipped.
@@ -42,13 +42,23 @@ Follow these steps to execute an election.
 
 Congratulate all nominees for their participation in the election.
 
-CampusGroups roles
-==================
+Update CampusGroups roles
+=========================
 
 RIT clubs are required to use CampusGroups and maintain records for the clubs office.
 After holding an election, update the incoming eboard members inside of CampusGroups.
 
 Detailed documentation on CampusGroups can be found on the :doc:`campusgroups-management` page.
+
+Update email aliases
+====================
+
+RITlug uses different email aliases for different uses in the club.
+At the end of the semester, outgoing eboard members should replace their aliases with incoming eboard members.
+This is required for email aliases intended for a single role (e.g. ``president@ritlug.com``, ``secretary@ritlug.com``, etc.).
+For project aliases (e.g. ``tigeros@ritlug.com``), it is up to the discretion of an individual and the project team if they wish to remain on the alias.
+
+Detailed documentation on updating email aliases is found on the :doc:`../tasks/update-email-aliases` page.
 
 Introduce faculty adviser
 =========================
