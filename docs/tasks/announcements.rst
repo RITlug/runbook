@@ -1,46 +1,90 @@
-Announcements
-=============
+###############################
+How to send email announcements
+###############################
 
-You mean there's more than place for announcements?
----------------------------------------------------
+As of 2018, there is only one place to write announcements: :doc:`CampusGroups <../administration/campusgroups-management>`.
+Announcements are generally sent to RITlug club members at the beginning of each week.
+These weekly emails inform club members about the topic of the upcoming general meeting.
 
-As of 2017, RITlug has three main channels for sending announcements: the RITlug website (a.k.a. Google Groups), TheLink@RIT, and a Mailchimp mailing list.
-Announcements posted on the RITlug website (via git) are automatically emailed to the public mailing list on Google Groups.
-IFTTT picks up the git commit and posts it to the Google Groups mailing list.
-Mailchimp was started during fall 2017 during the Club Fair, but it should be avoided if possible.
-Unfortunately, there is no current way to add to the private TheLink@RIT mailing list (or vice versa).
+In order to post a club-wide announcement, you need to navigate to the RITlug `CampusGroups <https://campusgroups.rit.edu>`__ page.
+On the main club page, go to the *Emails* drop-down, and select the *Mailing Lists* option.
+To send an email from here, one must:
 
-In order to post a club-wide announcement, create a new post on the website (see `The Website <the-website.md#announcements>`__) **first**.
-Commit and push the post. Then, take the text and paste it into an email to the roster on TheLink.
-You can also take a copy and pasted version to Mailchimp as well.
+#. Select mailing list
+#. Choose sender email address
+#. Select email template
+#. Compose email
+#. Send email
 
-Although it isn't the most fluid way of doing things, make sure all announcements are sent out through TheLink as it seems to reach people much more effectively (it's also our largest mailing list of the three).
-TheLink roster only allows people with RIT accounts, hence the additional Google Groups and Mailchimp lists.
-All RIT-affiliated individuals should be on TheLink rather than Google Groups.
+**********************
+Selecting mailing list
+**********************
 
-Posting Announcements on the Website
-------------------------------------
+Here, you will be asked which mailing list you would like to send the email to.
 
-*See `The Website <the-website.md#announcements>`__*
+.. figure:: /_static/img/campusgroups_mailing_list.png
+   :alt: Default mailing list
 
-Posting Announcements via TheLink
----------------------------------
+   Default mailing list
 
-**THIS IS ONLY MAINTAINED FOR DOCUMENTATION PURPOSES AND HAS BEEN DEPRECATED BY RIT**
+*****************************
+Choose a "from" email address
+*****************************
 
-*This is available only to eboard members on TheLink.*
+Weekly emails should always be sent from the **eboard [at] ritlug [dot] com** email address.
 
-1.  Sign into TheLink@RIT.
-2.  Go to RITlug and open the club roster.
-3.  Click the button that says "Messaging".
-4.  Click "Create Relay".
-5.  On the page that appears, click the "Edit" button under step 1.
-    Check the boxes. To send an email to the entire club, check the box named "Member".
-6.  Click "Close".
-7.  Add a name (usually the email subject line).
-    This is how the email is listed for posterity in TheLink@RIT but otherwise doesn't matter..
-8.  Click "Generate".
-9.  Copy and paste the email link into your email client of choice.
-10. Type your announcement, click "send". Done!
+.. figure:: /_static/img/campusgroups_choosing_email_address.png
+   :alt: Choosing sender email address
 
-TheLink will forward your email out to the list of members you selected in the next few minutes, with your email address as the "reply-to" link, from "Linux Users Group".
+   Choosing sender email address
+
+.. note:: For debugging purposes, it is good to know this is *technically* a "Reply-To" header
+
+**********************
+Composing weekly email
+**********************
+
+1. Add a title ( usual format: *RITlug Week # Meeting -- Meeting Topic* )
+2. Select email template
+
+Currently, there are two templates: *RITlug Welcome Email*, and *RITlug Newsletter*. 
+For general RITlug meetings, choose *RITlug Newsletter* 
+
+.. figure:: /_static/img/campusgroups_compose_email.png
+   :alt: Selecting email template
+
+   Selecting email template
+
+At this point, you are free to create the RITlug General Meeting email from the given template.
+
+.. figure:: /_static/img/campusgroups_create_email.png
+   :alt: Composing the email
+
+   Composing the email
+
+*************
+Adding events
+*************
+
+After the email is all drafted and completed, it is a good idea to have a *RITlug Meeting* Event to add to the email.
+
+.. figure:: /_static/img/campusgroups_add_clickboxes.png
+   :alt: Adding RITlug Event
+
+   Adding RITlug Event
+
+*************
+Sending email
+*************
+
+The last step is sending out the email. 
+CampusGroups has the nifty option to send the email out at a certain time (This can be helpful if the email is being composed in the middle of the night).
+The *Hide default signature* option should be selected so there is no odd *Linux Users Group* footer at the end of each email.
+
+.. figure:: /_static/img/campusgroups_delivery_options.png
+   :alt: Selecting delivery options
+
+   Selecting delivery options
+
+Lastly, at the very bottom, the option exists to send a test email, preview the composed email, save as draft, or send!
+Congratulations, you've now successfully sent out an email to all RITlug members!
