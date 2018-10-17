@@ -17,11 +17,13 @@ Pre-meeting
 
 #. Plan topic(s) for meeting
 
-#. Announce meeting and topic (see :doc:`../tasks/announcements`)
+#. :doc:`Announce meeting and topic <../tasks/announcements>`
 
 #. Prepare presentation, slides, or handouts
 
 #. Advertise special topics (e.g. posters)
+
+#. :doc:`Create sign-in form on CampusGroups <../tasks/create-campusgroups-signin>`
 
 Meeting
 =======
