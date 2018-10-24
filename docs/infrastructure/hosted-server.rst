@@ -6,7 +6,7 @@ RITlug has a hosted server in the Institute Hall data center.
 It is currently owned and maintained by `Solomon Rubin`_ (Serubin).
 It is permanently on lend to RITlug.
 He remains the primary contact for any major issues.
-RITlug-related use  is maintained by designated club Server Admins. 
+RITlug-related use is maintained by the RITlug President, Vice President, and Project Coordinator.
 
 
 **************
@@ -84,11 +84,24 @@ When creating a new VM from a template…
 #. Start VM, follow any setup scripts
 #. Profit!
 
+
 Use and Access
 ==============
 
-Use and access is limited to members of the executive board.
+Use and access of Titan is limited to the President, Vice President, and Project Coordinator.
 In the future, there may be opportunities for club members to participate in managing RITlug's infrastructure.
+
+How to Gain Access to Titan
+===========================
+
+If you are one of the three roles listed above, and have not yet gained access to Titan, the steps to gain access to Titan are:
+
+#. Start a conversation with Solomon Rubin
+#. Give Solomon a username and PIN to be used with the OpenVPN connection.
+#. 
+
+How to Connect to Titan's Proxmox
+=================================
 
 Contacts
 ========
