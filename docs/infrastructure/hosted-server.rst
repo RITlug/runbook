@@ -85,8 +85,9 @@ When creating a new VM from a template…
 #. Profit!
 
 
+**************
 Use and Access
-==============
+**************
 
 Use and access of Titan is limited to the President, Vice President, and Project Coordinator.
 In the future, there may be opportunities for club members to participate in managing RITlug's infrastructure.
@@ -94,14 +95,19 @@ In the future, there may be opportunities for club members to participate in man
 How to Gain Access to Titan
 ===========================
 
-If you are one of the three roles listed above, and have not yet gained access to Titan, the steps to gain access to Titan are:
+If you are one of the three roles listed above, and have not yet gained access to Titan, this is the section for you.
+Access to Titan first requires access to the VPN, as Titan's Management Interface (TMI) is IP restricted.
+To get on the VPN, Solomon needs to give you the OpenVPN file to initiate the connection.
+This VPN does not allow anything but local traffic through, so tunneling does not work.
+
+Lastly, TMI needs a (TMI) proxmox account. 
+Proxmox is used in order to avoid unnecessary unix accounts.
+This requires a username, and Solomon provides a temporary password that should be changed upon log in.
+The steps for this process are listed below:
 
 #. Start a conversation with Solomon Rubin
 #. Give Solomon a username and PIN to be used with the OpenVPN connection.
-#. 
-
-How to Connect to Titan's Proxmox
-=================================
+#. Give a username to be used with the TMI proxmox
 
 Contacts
 ========
