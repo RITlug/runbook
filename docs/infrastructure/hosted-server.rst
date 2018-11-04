@@ -95,19 +95,18 @@ In the future, there may be opportunities for club members to participate in man
 How to Gain Access to Titan
 ===========================
 
-If you are one of the three roles listed above, and have not yet gained access to Titan, this is the section for you.
-Access to Titan first requires access to the VPN, as Titan's Management Interface (TMI) is IP restricted.
+Access to Titan first requires access to the VPN, as Titan's Management Interface (Proxmox) is IP restricted.
 To get on the VPN, Solomon needs to give you the OpenVPN file to initiate the connection.
 This VPN does not allow anything but local traffic through, so tunneling does not work.
 
-Lastly, TMI needs a (TMI) proxmox account. 
+Lastly, Proxmox itself needs an account.
 Proxmox is used in order to avoid unnecessary unix accounts.
 This requires a username, and Solomon provides a temporary password that should be changed upon log in.
-The steps for this process are listed below:
+So, for approved users, this is the process for gaining access to Titan:
 
 #. Start a conversation with Solomon Rubin
 #. Give Solomon a username and PIN to be used with the OpenVPN connection.
-#. Give a username to be used with the TMI proxmox
+#. Give a username to be used with Proxmox
 
 Contacts
 ========
