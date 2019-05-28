@@ -83,6 +83,8 @@ Other on-boarding tasks
 
 - Add incoming eboard to new eboard team in GitHub organization, archive old eboard team, grant ownership privileges to president / vice president (see :doc:`github-org`)
 
+- Add incoming eboard to RITlug GitLab eboard team.
+
 - Add incoming eboard members as collaborators with write access to the RITlug Google Drive folder
 
 - Transfer ownership of RIT computer account for RITlug (i.e. ritlug at rit dot edu)
@@ -90,8 +92,6 @@ Other on-boarding tasks
 - Grant operator privileges to incoming eboard members in IRC channel (see :doc:`../infrastructure/irc-channel`).
 
 - Add incoming eboard members as admins to `Telegram group`_ (*optional*, Telegram is no longer promoted)
-
-- Add incoming eboard members as admins to `Facebook group`_
 
 - *If new president*:
     
@@ -118,6 +118,8 @@ Use best judgment for whether access should be revoked (especially if outgoing m
 
 - Remove outgoing members from current "Eboard" team in GitHub, remove ownership rights if they have it (see :doc:`github-org`)
 
+- Remove outgoing members from eboard GitLab group.
+
 - Revoke privileges in RITlug Google Drive folder
 
 - Transfer account ownership of RIT computer account, update any info, reset password (if necessary)
@@ -126,11 +128,8 @@ Use best judgment for whether access should be revoked (especially if outgoing m
 
 - Revoke admin privileges on `Telegram group`_ (if applicable)
 
-- Revoke admin privileges on `Facebook group`_
-
 - Revoke account privileges from any RITlug-owned machines or servers (see :doc:`../infrastructure/hosted-server`)
 
 
 .. _`Telegram group`: https://t.me/ritlug
-.. _`Facebook group`: https://www.facebook.com/groups/RITLUG/
 .. _`financial certification test`: https://www.rit.edu/studentaffairs/campuslife/financial-certification-test
