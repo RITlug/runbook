@@ -62,5 +62,5 @@ The redirect should work in an hour or less.
 
 
 .. [#] Currently, the domain is owned by Mark Repka.
-       The domain is shared with Christian Martin, Justin W. Flory, and Solomon Rubin on their personal accounts.
+       The domain is shared with Christian Martin, Justin Wheeler, and Solomon Rubin on their personal accounts.
        Eventually, this will change once the domain is migrated to the RITlug Namecheap account.
