@@ -49,7 +49,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'RIT Linux Users Group Runbook'
 copyright = '2017-2018, RITlug Executive Board'
-author = 'Justin W. Flory, Solomon Rubin, Nate Levesque, Mark Repka, and others'
+author = 'Justin Wheeler, Solomon Rubin, Nate Levesque, Mark Repka, and others'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -144,7 +144,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'RITLinuxUsersGroupRunbook.tex', 'RIT Linux Users Group Runbook Documentation',
-     'Justin W. Flory, Solomon Rubin, Nate Levesque, Mark Repka, and others', 'manual'),
+     'Justin Wheeler, Solomon Rubin, Nate Levesque, Mark Repka, and others', 'manual'),
 ]
 
 
